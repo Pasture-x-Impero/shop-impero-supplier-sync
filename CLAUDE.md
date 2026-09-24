@@ -33,7 +33,7 @@ kun fordi navn og bilde fallbacken i `src/enrichment/competitor-name.ts` bruker 
 - `src/utils/renew-also-session.ts` / `renew-isicom-session.ts` — Playwright cookie
   fornyelse. `github-secrets.ts` oppdaterer GitHub Secrets trygt (execFile, ikke shell).
 - `data/icecat-cache.json` — git committed cache, se "Icecat berikelse".
-- `.github/workflows/` — `tdsynnex-sync.yml` (daglig), `also-sync.yml` (daglig,
+- `.github/workflows/` — `tdsynnex-sync.yml` (daglig kl. 23:20 UTC, rett etter midnatt norsk tid), `also-sync.yml` (daglig,
   disabled), `isicom-sync.yml` (manuell), `session-renewal.yml` (disabled).
 
 ## Teknisk arkitektur

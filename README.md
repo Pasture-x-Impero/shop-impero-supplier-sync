@@ -24,11 +24,11 @@ et eget, privat repo og er ikke en del av dette.
 ```
 shop-impero-supplier-sync
 │
-├── tdsynnex-sync.yml (daglig kl. 06:00) → TD Synnex Digital Bridge API
+├── tdsynnex-sync.yml (daglig kl. 23:20 UTC) → TD Synnex Digital Bridge API
 │     Kun MPN er som allerede finnes i butikkens katalog (hentet via
 │     price-sync-mpns), ikke hele produsentkataloger.
 │
-├── also-sync.yml (daglig kl. 06:00) → ALSO Norge (HTTPS ZIP nedlasting)
+├── also-sync.yml (daglig kl. 23:20 UTC) → ALSO Norge (HTTPS ZIP nedlasting)
 │     ⏸️ DISABLED. Automatisk fornyelse av sesjon cookie (2FA) er ikke løst.
 │
 ├── isicom-sync.yml (kun manuell) → isicom.no
@@ -115,8 +115,8 @@ npm run typecheck
 
 | Workflow | Trigger | Status | Hva den gjør |
 |---|---|---|---|
-| `tdsynnex-sync.yml` | Daglig kl. 06:00 | ✅ Aktiv | TD Synnex innkjøpspriser og lager, kun kjente MPN er. Kjører Icecat bildeimport som eget steg etterpå. |
-| `also-sync.yml` | Daglig kl. 06:00 | ⏸️ Disabled | ALSO innkjøpspriser |
+| `tdsynnex-sync.yml` | Daglig kl. 23:20 UTC, dvs. rett etter midnatt norsk tid | ✅ Aktiv | TD Synnex innkjøpspriser og lager, kun kjente MPN er. Kjører Icecat bildeimport som eget steg etterpå. |
+| `also-sync.yml` | Daglig kl. 23:20 UTC, dvs. rett etter midnatt norsk tid | ⏸️ Disabled | ALSO innkjøpspriser |
 | `isicom-sync.yml` | Kun manuell | ✅ Aktiv | isicom.no innkjøpspriser |
 | `session-renewal.yml` | Hvert 6. time | ⏸️ Disabled | Automatisk cookie fornyelse |
 
