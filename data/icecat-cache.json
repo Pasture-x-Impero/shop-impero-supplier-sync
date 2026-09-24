@@ -14917,6 +14917,2253 @@
         "tastaturoppsett": "Nordisk"
       },
       "nameSource": "icecat"
+    },
+    "ean:199896344081": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:33.560Z",
+      "name": "HP EliteStudio 8 Alt-i-ett G1i 23,8\" stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-331908fc05b5bc1b85bb036edaa09606/products/4251548/4251548_3_1200x1200_w_g.jpg"
+    },
+    "ean:199276396938": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:34.349Z",
+      "name": "Lenovo ThinkStation P4 — Ryzen™ 7 PRO 9755, 64GB/1TB",
+      "specs": {
+        "produkttype": "PCs/Workstations",
+        "prosessor": "AMD Ryzen™ 7 PRO 9755",
+        "minne": "64 GB",
+        "lagring": "1 TB SSD",
+        "grafikk": "AMD Radeon Graphics",
+        "operativsystem": "Danish, Finnish, Swedish, Norwegian, English",
+        "farge": "Black",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:195950628173": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:35.868Z",
+      "name": "Apple iPhone 17 Pro 512 GB, dypblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-0f4620c541338c6333f89c68ad9f000b/products/4157300/4157300_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950698404": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:36.903Z",
+      "name": "Apple MacBook Air 15\" (2026, M5) 16/512 GB, himmelblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-389e8abbfd22374ae44c6e19b372f02b/products/4253490/4253490_9_1200x1200_w_g.jpg"
+    },
+    "ean:5099206111745": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:37.931Z",
+      "name": "Logitech MX Anywhere 3S trådløs mus blekgrå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b90315ca9251d9fe16be624b2af5a8f7/products/2175547/2175547_11_1200x1200_w_g.jpg"
+    },
+    "ean:5054444767215": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:46.118Z",
+      "name": "Logitech MK370 Combo for Business Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011414762/logitech-mk370-combo-for-business-trådls-nordisk.png"
+    },
+    "ean:195950638820": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:48.257Z",
+      "name": "Apple iPhone 17 Pro Max 256 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-48371b9e54092473a3e3383072fd2765/products/4157304/4157304_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950640625": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:49.785Z",
+      "name": "Apple iPhone 17 Pro Max 2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-c612fccf848512a2521203bc699727f2/products/4157314/4157314_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206066687": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:12:56.894Z",
+      "name": "Logitech M330 Silent Wireless RF kabel-fri Mus Blå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011109506/logitech-m330-silent-wireless-rf-kabel-fri-mus-blå.jpg"
+    },
+    "ean:5099206097186": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:04.716Z",
+      "name": "Logitech Signature M650 Large Bluetooth Mus Rosa",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011109571/logitech-signature-m650-large-bluetooth-mus-rosa.jpg"
+    },
+    "ean:195713001595": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:05.930Z",
+      "name": "Lenovo Go",
+      "specs": {
+        "produkttype": "Power Banks",
+        "farge": "Black, Grey"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:199251889370": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:07.426Z",
+      "name": "HP Elite Tower 8 G1 stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-49e45b6adac64c23e9ceecf72a0a8b3b/products/4132013/4132013_5_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|960-001422": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:09.089Z",
+      "name": "Logitech Brio 500 webkamera (graphite)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/nb-no/1200/1216867.jpg"
+    },
+    "ean:195951410883": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:10.119Z",
+      "name": "Apple iPhone 18 Pro Max 512 GB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-cfefdb0a827a5a679b73d5a50c889e73/products/4532314/4532314_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206110427": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:12.412Z",
+      "name": "Pebble Mouse 2 M350s (sort)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1250176.jpg"
+    },
+    "ean:5099206111394": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:14.677Z",
+      "name": "Pebble Keys 2 K380s (sort)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/nb-no/1200/1250177.jpg"
+    },
+    "ean:198701390350": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:21.663Z",
+      "name": "HP Z6 G5 Workstation AMD Ryzen Threadripper PRO 256GB 6000GB RTX 6000 Ada",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011771426/hp-z6-g5-workstation-amd-ryzen-threadripper-pro-256gb-6000gb-rtx-6000-ada.png"
+    },
+    "ean:195950627572": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:23.369Z",
+      "name": "Apple iPhone 17 Pro 256 GB, dypblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-3eca1e391217763cfe619bdfa2288868/products/4157297/4157297_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416557": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:24.632Z",
+      "name": "Apple iPhone 18 Pro 1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a70bf27debb3d9672f4145fc9eba0609/products/4532300/4532300_2_1200x1200_w_g.jpg"
+    },
+    "ean:199251082818": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:25.819Z",
+      "name": "HP Z4 G5 Workstation stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-26463ecaa82f523dd50cbd3e9be16ebb/products/4216758/4216758_4_1200x1200_w_g.jpg"
+    },
+    "ean:199896071086": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:27.005Z",
+      "name": "HP EliteDesk 8 Mini G1a D15FRET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d09ca8bac93e17c381d8a71f370fda19/products/4269574/4269574_5_1200x1200_w_g.jpg"
+    },
+    "ean:5099206105300": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:28.026Z",
+      "name": "Logitech Signature MK650 tastatur- og musesett, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7f6be3f22b3d4704d971b7b0d36f6b3a/products/3917373/3917373_1_1200x1200_w_g.jpg"
+    },
+    "ean:195950622997": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:29.110Z",
+      "name": "Apple iPhone Air 256 GB, lys gull",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f4d6f937e8a15eb87e31520df004ffd6/products/4157320/4157320_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416472": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:30.152Z",
+      "name": "Apple iPhone 18 Pro 256 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-9cda01bb4614243db3ba90da37b10f38/products/4532292/4532292_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206059382": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:31.180Z",
+      "name": "Logitech K400+ Wireless Touch keyboard",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-6f721e394f915d751cffd39b26767290/products/254987/254987_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416526": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:32.820Z",
+      "name": "Apple iPhone 18 Pro 512 GB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-540474319723c23de9c84b06ffbdf759/products/4532297/4532297_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206124547": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:33.841Z",
+      "name": "Logitech MX Ergo S trådløs trackball-mus",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a9a04d3f9f6502db87f671d259721787/products/3539994/3539994_9_1200x1200_w_g.jpg"
+    },
+    "ean:5099206103085": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:35.260Z",
+      "name": "Logitech MX Mechanical trådløst tastatur clicky",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e0f1475e84a700a33e6de7dea555d1bb/products/1443408/1443408_1_1200x1200_w_g.jpg"
+    },
+    "ean:199485083438": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:36.683Z",
+      "name": "HP Z1 Tower G1i B76S2ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-455256b0a22f66d5d1db9effd91a2f76/products/4194435/4194435_6_1200x1200_w_g.jpg"
+    },
+    "ean:195951020983": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:37.723Z",
+      "name": "Apple Mac Mini (2026, M6) 16/256 GB",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-4b937b4d9fcacbc4949d0586fec96c9a/products/4525598/4525598_27_1200x1200_w_g.jpg"
+    },
+    "ean:195949822087": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:38.767Z",
+      "name": "Apple iPhone 16 128 GB, hvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-6a1a84d752cac1752dacb431404ea4be/products/3614194/3614194_10_1200x1200_w_g.jpg"
+    },
+    "ean:195950639223": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:39.787Z",
+      "name": "Apple iPhone 17 Pro Max 256 GB, dypblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2c73da8ce1375a1860effc0e7398b663/products/4157307/4157307_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206111738": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:46.730Z",
+      "name": "Logitech Mx Anywhere 3s For Mac - Space Grey Bluetooth Mus Stellargrå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011252583/logitech-mx-anywhere-3s-for-mac-space-grey-bluetooth-mus-stellargrå.png"
+    },
+    "ean:197961567151": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:54.252Z",
+      "name": "HP ProOne 440 G9 AIO Intel Core i5 16GB 256GB 23.8\"",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011159304/hp-proone-440-g9-aio-intel-core-i5-16gb-256gb-238.jpg"
+    },
+    "ean:195950645316": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:56.017Z",
+      "name": "Apple iPhone 17 512 GB, salvie",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d99bbce30363afff20bb337c7bf0c7d2/products/4157293/4157293_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950628579": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:13:57.067Z",
+      "name": "Apple iPhone 17 Pro 1 TB, kosmisk oransje",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-166dd9bc90856c663c7b09723b8efbb2/products/4157302/4157302_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206062870": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:03.297Z",
+      "name": "Logitech M171 RF kabel-fri Mus Svart, Rød",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011517525/logitech-m171-rf-kabel-fri-mus-svart-rd.png"
+    },
+    "ean:085896583523": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:04.169Z",
+      "name": "Kensington MagPro Magnetic Privacy Screen Filter for Laptops 14\" (16:9)",
+      "specs": {
+        "produkttype": "Display Privacy Filters"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:195950694642": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:05.485Z",
+      "name": "Apple MacBook Air 15\" (2026, M5) 16/1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-1efacf104d7a8fa73169baf0b437b2ce/products/4253491/4253491_9_1200x1200_w_g.jpg"
+    },
+    "ean:195951410937": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:06.503Z",
+      "name": "Apple iPhone 18 Pro Max 1 TB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-38ece10fc5b3f897eec8d649e723b02b/products/4532319/4532319_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206082199": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:09.154Z",
+      "name": "Logitech C920s PRO HD Webkamera",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1122948.jpg"
+    },
+    "ean:5099206111998": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:11.528Z",
+      "name": "Logitech M240 Tr&#xE5;dl&#xF8;s Mus (graphite)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1245446.jpg"
+    },
+    "ean:5099206113268": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:14.075Z",
+      "name": "Logitech Brio 100 Full HD webkamera (graphite)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1249333.jpg"
+    },
+    "ean:195951416588": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:15.142Z",
+      "name": "Apple iPhone 18 Pro 2 TB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-92f69c3b60d50ac3f16ef335afc0b1d4/products/4532303/4532303_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206062856": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:16.157Z",
+      "name": "Logitech M171 trådløs mus, sort",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e301c2240a3a80e11fae7eb16d2272c4/products/944697/944697_3_600x600_w_g.jpg"
+    },
+    "ean:5099206065062": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:22.359Z",
+      "name": "Logitech B170 RF kabel-fri Mus Svart, Grå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011518293/logitech-b170-rf-kabel-fri-mus-svart-grå.png"
+    },
+    "ean:199251889325": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:24.146Z",
+      "name": "HP EliteDesk Mini 8 G1 stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-fcc47c1e86d6e6bdb9a4f0e883138a68/products/4171255/4171255_4_600x600_w_g.jpg"
+    },
+    "ean:199896343206": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:25.356Z",
+      "name": "HP EliteStudio 8 Alt-i-ett G1i stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7230e1e703227e95fb8eb893b9a64526/products/4269566/4269566_10_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|960-001360": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:30.647Z",
+      "name": "Logitech C920e 1080P",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011424648/logitech-c920e-1080p.png"
+    },
+    "ean:195950644715": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:32.254Z",
+      "name": "Apple iPhone 17 512 GB, hvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-c315402f9e3e7f2188760d132f752afc/products/4157290/4157290_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950627978": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:33.279Z",
+      "name": "Apple iPhone 17 Pro 512 GB, kosmisk oransje",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d8962df51a4a62d9b7177011c0ac7524/products/4157299/4157299_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416519": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:34.304Z",
+      "name": "Apple iPhone 18 Pro 512 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a580b0a195a32033b2204b1747f00adc/products/4532296/4532296_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416564": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:35.335Z",
+      "name": "Apple iPhone 18 Pro 1 TB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-cbadc74ce2d0cd21afae53e9e195de25/products/4532301/4532301_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206111752": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:42.174Z",
+      "name": "Logitech MX Anywhere 3S for Mac Bluetooth Mus Grå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011252564/logitech-mx-anywhere-3s-for-mac-bluetooth-mus-grå.png"
+    },
+    "ean:5099206112520": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:48.770Z",
+      "name": "Logitech Brio 105",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011470677/logitech-brio-105.png"
+    },
+    "ean:199251670107": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:50.676Z",
+      "name": "HP Z2 Mini G1I U7 stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-4b6df79e72bfa0ba1e34c2d81138e5b8/products/4132015/4132015_5_1200x1200_w_g.jpg"
+    },
+    "ean:195950627176": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:51.695Z",
+      "name": "Apple iPhone 17 Pro 256 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-92421a34f4b064164a1cdde068e9dd57/products/4157294/4157294_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206027275": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:57.663Z",
+      "name": "Logitech M185 RF kabel-fri Mus Svart, Grå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011110569/logitech-m185-rf-kabel-fri-mus-svart-grå.jpg"
+    },
+    "ean:5099206097278": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:14:59.287Z",
+      "name": "Logitech Signature M650 L trådløs mus, grafitt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2bc14e32b81890dfe5b58480d2fa5dde/products/3917363/3917363_7_1200x1200_w_g.jpg"
+    },
+    "ean:5099206086685": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:00.310Z",
+      "name": "LOGITECH K580 SLIM MULTI-DEVICE TRÅDLØST TASTATUR",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-bd84c160df5be6e675b0a359ff4e1be2/products/1112613/1112613_6_1200x1200_w_g.jpg"
+    },
+    "ean:195950623598": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:06.623Z",
+      "name": "Apple iPhone Air 512GB Hvit",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011550913/apple-iphone-air-512gb-hvit.jpg"
+    },
+    "ean:195951416465": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:08.211Z",
+      "name": "Apple iPhone 18 Pro 256 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e13b498d0df2f10188ddfd7b9696142d/products/4532290/4532290_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950717648": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:09.399Z",
+      "name": "Apple MacBook Pro 14\" (2026, M5 Pro) 24/2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d900c9c47f40fb27ee129d1c57b4f48c/products/4253503/4253503_10_1200x1200_w_g.jpg"
+    },
+    "ean:195950715590": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:10.424Z",
+      "name": "Apple MacBook Pro 16\" (2026, M5 Max) 36/2 TB, stellarsvart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-8a04bd222de48794e52fdf4730103590/products/4253514/4253514_10_1200x1200_w_g.jpg"
+    },
+    "ean:195950690118": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:11.454Z",
+      "name": "Apple MacBook Air 13\" (2026, M5) 16/512 GB, midnatt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f6bd67003c81c70439b78b9002ba63c5/products/4253477/4253477_9_1200x1200_w_g.jpg"
+    },
+    "ean:195950717174": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:12.727Z",
+      "name": "Apple MacBook Pro 14\" (2026, M5 Pro) 24/1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-da5a9879d85a0a7c800c32c15216b83a/products/4253501/4253501_10_1200x1200_w_g.jpg"
+    },
+    "ean:5099206134690": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:18.900Z",
+      "name": "Logitech Signature Comfort Plus M850 L for Business RF trådløs + Bluetooth Mus Grafitt",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011740290/logitech-signature-comfort-plus-m850-l-for-business-rf-trådls-bluetooth-mus-grafitt.png"
+    },
+    "ean:5099206033580": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:20.928Z",
+      "name": "Logitech MK330 trådløs tastatur og mus",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-87d045546a86a15768c1e4e9b928c2c9/products/221907/221907_3_1200x1200_w_g.jpg"
+    },
+    "ean:5099206103061": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:23.086Z",
+      "name": "Logitech MX Mechanical Wireless Tactile (graphite)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1213503.jpg"
+    },
+    "ean:5099206096813": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:30.135Z",
+      "name": "Logitech MX Keys for Business Trådløs Internasjonal britisk engelsk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011845875/logitech-mx-keys-for-business-trådls-internasjonal-britisk-engelsk.png"
+    },
+    "ean:195949821905": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:31.731Z",
+      "name": "Apple iPhone 16 128 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7a07112a1d9e2cc5cfb305200c5fbc4d/products/3614193/3614193_12_1200x1200_w_g.jpg"
+    },
+    "ean:199896376983": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:32.930Z",
+      "name": "HP EliteDesk 8 Mini G1i D2XL9ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-59b6333f8320e17aed309aa16c08628d/products/4269576/4269576_5_1200x1200_w_g.jpg"
+    },
+    "ean:199274192921": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:33.952Z",
+      "name": "Lenovo ThinkStation P3 Tiny Gen 2 30K5005VMT mini-PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-90fd5a280cd5b33b786e5fef02aee26a/products/4316315/4316315_3_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|960-001469": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:39.303Z",
+      "name": "Logitech BRIO 305 for Business",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011521586/logitech-brio-305-for-business.png"
+    },
+    "ean:5099206086562": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:46.194Z",
+      "name": "Logitech Slim Wireless Combo MK470 Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011415168/logitech-slim-wireless-combo-mk470-trådls-nordisk.png"
+    },
+    "ean:195950640021": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:47.979Z",
+      "name": "Apple iPhone 17 Pro Max 1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b7553920552cdcb2d470176b0102b422/products/4157311/4157311_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950643510": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:49.146Z",
+      "name": "Apple iPhone 17 256 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-cebafe4d9c4797b8e327fd57b8ac7a0a/products/4157177/4157177_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951406749": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:50.315Z",
+      "name": "Apple iPhone Duo 1 TB, stjernehvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-07ff79867e82dac582392eab01dc3409/products/4532329/4532329_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951407104": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:51.552Z",
+      "name": "Apple iPhone Duo 2 TB, stjernehvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-67fce7d63a1bd7422f4134d89f2fdffc/products/4532331/4532331_2_1200x1200_w_g.jpg"
+    },
+    "ean:195892115878": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:52.669Z",
+      "name": "Lenovo Preferred Pro II USB",
+      "specs": {
+        "produkttype": "Keyboards",
+        "farge": "Black",
+        "tastaturoppsett": "Norsk"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:195950712773": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:53.685Z",
+      "name": "Apple MacBook Pro 16\" (2026, M5 Pro) 24/1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-85bb77d460dbd5af4b84323f6be767e4/products/4253509/4253509_11_1200x1200_w_g.jpg"
+    },
+    "ean:199276406644": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:54.439Z",
+      "name": "Lenovo ThinkStation P4 — Ryzen™ 9 PRO 9965X3D, 64GB/1TB",
+      "specs": {
+        "produkttype": "PCs/Workstations",
+        "prosessor": "AMD Ryzen™ 9 PRO 9965X3D",
+        "minne": "64 GB",
+        "lagring": "1 TB SSD",
+        "grafikk": "AMD Radeon Graphics",
+        "operativsystem": "Danish, Finnish, Swedish, Norwegian, English",
+        "farge": "Black",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:195951416601": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:55.457Z",
+      "name": "Apple iPhone 18 Pro 2 TB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-fd240f8d8f1ead03f63ee0d14ef2b264/products/4532305/4532305_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950687293": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:56.530Z",
+      "name": "Apple MacBook Air 13\" (2026, M5) 16/512 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a7314d4a80e45f34b0859f27c0571d15/products/4253475/4253475_9_1200x1200_w_g.jpg"
+    },
+    "ean:5099206097179": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:57.766Z",
+      "name": "Logitech Signature M650L trådløs mus, grå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7bde56f3b2b48117b86288b875f411e1/products/1232893/1232893_8_1200x1200_w_g.jpg"
+    },
+    "ean:199251693304": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:15:59.018Z",
+      "name": "HP ProDesk 4 SFF G1i 9H7L2ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-499291b3d2d0ffdc84dbe0ef5315eb23/products/4194433/4194433_11_1200x1200_w_g.jpg"
+    },
+    "ean:199251669866": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:01.411Z",
+      "name": "HP Z2 Tower G1I A40QFET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-ffd8a67d6f1527453a7461ae6a585acc/products/4171271/4171271_5_600x600_w_g.jpg"
+    },
+    "ean:195950051209": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:02.437Z",
+      "name": "Apple iPhone 16e 128 GB, hvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-34109d214dd49417ce737d454bfdba16/products/4008996/4008996_3_1200x1200_w_g.jpg"
+    },
+    "ean:195950623192": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:03.522Z",
+      "name": "Apple iPhone Air 256 GB, himmelblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b41e1356b2c15ccf9e0d34b6c9d25140/products/4157321/4157321_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951406022": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:05.203Z",
+      "name": "Apple iPhone Duo 256 GB, stjernehvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2fe7556e9791c54e896ba29bf8f5d191/products/4532324/4532324_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206061309": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:07.321Z",
+      "name": "Logitech HD Pro C920 Webkamera",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/856419.jpg"
+    },
+    "ean:195892141617": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:12.130Z",
+      "name": null,
+      "specs": {
+        "produkttype": "DisplayPort Cables"
+      }
+    },
+    "mpn:logitech|920-012512": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:17.925Z",
+      "name": "Logitech Signature Slim Combo MK950 for Business Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011420724/logitech-signature-slim-combo-mk950-for-business-trådls-nordisk.png"
+    },
+    "ean:5099206066670": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:19.493Z",
+      "name": "Logitech M330 Silent trådløs mus, sort",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2df859944a30037d83b47272341cfc26/products/944699/944699_4_1200x1200_w_g.jpg"
+    },
+    "ean:199251694196": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:20.663Z",
+      "name": "HP ProStudio 4 G1i 225T Alt-i-ett-PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-82aacde7e49247ea00c57cea40844469/products/4216748/4216748_5_1200x1200_w_g.jpg"
+    },
+    "ean:199485109206": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:27.237Z",
+      "name": "HP Z2 G1i Tower Intel Core Ultra 9 96GB 2000GB RTX PRO 6000 BW",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011783821/hp-z2-g1i-tower-intel-core-ultra-9-96gb-2000gb-rtx-pro-6000-bw.png"
+    },
+    "mpn:logitech|920-009830": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:28.874Z",
+      "name": "Logitech MK295 Silent Wireless Combo tastatur og mus (hvit)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1164893.jpg"
+    },
+    "ean:195950641028": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:30.292Z",
+      "name": "Apple iPhone 17 Pro Max 2 TB, dypblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-0fc99cca112bf6ca2d19ab57fe9d3a64/products/4157316/4157316_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951410838": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:31.313Z",
+      "name": "Apple iPhone 18 Pro Max 256 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-4503782db9fbf3f6eca19d4469da9e8b/products/4532309/4532309_2_1200x1200_w_g.jpg"
+    },
+    "ean:198415234285": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:32.537Z",
+      "name": "HP ZBook Power G11 16\" bærbar PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-906b71284fd9312e2a6a29722dafc8a3/products/4122132/4122132_1_600x600_w_g.jpg"
+    },
+    "ean:195949822445": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:33.576Z",
+      "name": "Apple iPhone 16 128 GB, ultramarin",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-073485a644459d24122e6a2176fb147b/products/3614196/3614196_10_1200x1200_w_g.jpg"
+    },
+    "ean:195951416502": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:34.610Z",
+      "name": "Apple iPhone 18 Pro 512 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-dd3916495e05993ea6e6244310582b53/products/4532295/4532295_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206096547": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:40.512Z",
+      "name": "Logitech Ergo M575 For Business Logi Bolt Bluetooth Styrekule Grafitt",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011520358/logitech-ergo-m575-for-business-logi-bolt-bluetooth-styrekule-grafitt.png"
+    },
+    "ean:5099206086579": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:48.461Z",
+      "name": "Logitech Slim Wireless Combo MK470 Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011167937/logitech-slim-wireless-combo-mk470-trådls-nordisk.jpg"
+    },
+    "ean:5099206105669": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:56.179Z",
+      "name": "Logitech Signature K650 Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011417402/logitech-signature-k650-trådls-nordisk.png"
+    },
+    "ean:195950639421": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:58.125Z",
+      "name": "Apple iPhone 17 Pro Max 512 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-8b895d5127b102fc9867c5626a3c7e29/products/4157308/4157308_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206097193": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:16:59.131Z",
+      "name": "Logitech Signature M650L trådløs mus, hvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2aba671a5e45e98c8bb0415048f9629f/products/1232895/1232895_2_600x600_w_g.jpg"
+    },
+    "ean:195950689174": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:00.142Z",
+      "name": "Apple MacBook Air 13\" (2026, M5) 16/1 TB, stjerneskinn",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-5aea2f6349c9a0e713e5792f8e6cec06/products/4253480/4253480_9_1200x1200_w_g.jpg"
+    },
+    "ean:195951255149": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:01.157Z",
+      "name": "Apple MacBook Pro 14\" (2026, M5 Pro) 24/2 TB, stellarsvart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-de8b388a621b6d1237b332fd80d3a161/products/4253506/4253506_10_1200x1200_w_g.jpg"
+    },
+    "ean:199251670602": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:02.339Z",
+      "name": "HP Z2 Tower G1i A40QHET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-45ffdfc901f16e531e88172d0944c670/products/4194437/4194437_5_600x600_w_g.jpg"
+    },
+    "mpn:logitech|960-001459": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:07.869Z",
+      "name": "Logitech BRIO 505",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011521492/logitech-brio-505.png"
+    },
+    "ean:195950622799": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:11.262Z",
+      "name": "Apple iPhone Air 256 GB, skyhvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-fb342ec3ebc511762424c4e2afdbf502/products/4157319/4157319_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950643916": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:12.295Z",
+      "name": "Apple iPhone 17 256 GB, duggblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-af2c3fd470343143cb47e8e569fab035/products/4157286/4157286_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951030913": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:13.401Z",
+      "name": "Apple iPhone 17e 256 GB, soft pink",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e176ffe92c228d0814a928c8231fabe6/products/4252870/4252870_7_1200x1200_w_g.jpg"
+    },
+    "ean:5099206112018": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:15.934Z",
+      "name": "Logitech M240 Tr&#xE5;dl&#xF8;s Mus (off-white)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/nb-no/1200/1245445.jpg"
+    },
+    "ean:195951254678": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:17.187Z",
+      "name": "Apple MacBook Pro 14\" (2026, M5 Pro) 24/2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f147854cac3b740bbb87b082b2882586/products/4253505/4253505_10_1200x1200_w_g.jpg"
+    },
+    "ean:199251670404": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:18.366Z",
+      "name": "HP Z2 SFF G1I A40QKET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f0fbc20d200db56d6bc74ab401d5df24/products/4171267/4171267_4_600x600_w_g.jpg"
+    },
+    "ean:195951410951": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:19.389Z",
+      "name": "Apple iPhone 18 Pro Max 2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a9c246aa829b55b92b9fa79aa18f0029/products/4532321/4532321_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950688238": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:20.418Z",
+      "name": "Apple MacBook Air 13\" (2026, M5) 24/1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f4bbf1ce32f074d81e558ba74ce9feb3/products/4253483/4253483_9_1200x1200_w_g.jpg"
+    },
+    "ean:195950691993": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:21.453Z",
+      "name": "Apple MacBook Air 13\" (2026, M5) 16/1 TB, himmelblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-17f6097ffcea3ff3dccb729e5fc50f47/products/4253482/4253482_9_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|960-001681": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:26.993Z",
+      "name": "Logitech MeetUp 2 Konferansekamera",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011279884/logitech-meetup-2-konferansekamera.png"
+    },
+    "ean:5099206027169": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:34.924Z",
+      "name": "Logitech M235 RF kabel-fri Mus Grå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011201669/logitech-m235-rf-kabel-fri-mus-grå.jpg"
+    },
+    "ean:5099206097209": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:37.002Z",
+      "name": "Logitech Signature M650L trådløs mus Venstre, grå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-99cca12d4b1f6a41ce1d3c9c207eef90/products/1232896/1232896_2_600x600_w_g.jpg"
+    },
+    "ean:199274193539": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:38.276Z",
+      "name": "Lenovo ThinkStation P3 Tiny Gen 2 30K5005YMT mini-PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a4dbed70d8a3ae26d172177570b37abd/products/4316317/4316317_8_1200x1200_w_g.jpg"
+    },
+    "ean:195892126027": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:44.977Z",
+      "name": "Lenovo Pro Keyboard 6000 Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011804200/lenovo-pro-keyboard-6000-trådls-nordisk.png"
+    },
+    "ean:5099206096806": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:51.931Z",
+      "name": "Logitech MX Keys For Business Logi Bolt Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011417082/logitech-mx-keys-for-business-logi-bolt-trådls-nordisk.png"
+    },
+    "ean:195950640229": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:53.591Z",
+      "name": "Apple iPhone 17 Pro Max 1 TB, kosmisk oransje",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-013aae5450fd7a1f36043cb70d39b772/products/4157312/4157312_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950640823": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:54.612Z",
+      "name": "Apple iPhone 17 Pro Max 2 TB, kosmisk oransje",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-ca598c4f6c57a9e487122d2b2a7fb8f3/products/4157315/4157315_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416533": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:55.637Z",
+      "name": "Apple iPhone 18 Pro 512 GB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2bcc5dab19ff31120ffdb184b6564487/products/4532298/4532298_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206023901": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:17:56.647Z",
+      "name": "Logitech M705 Marathon Mouse unifying",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e5cee57c7e36bd5cd1e5e123593ebc2f/products/150084/150084_11_600x600_w_g.jpg"
+    },
+    "ean:5099206097285": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:02.750Z",
+      "name": "Logitech Signature M650 Large for Business Bluetooth Mus Hvit",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011520966/logitech-signature-m650-large-for-business-bluetooth-mus-hvit.png"
+    },
+    "ean:199251670701": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:04.522Z",
+      "name": "HP Z2 Tower G1I A40QGET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a7888827b6e580e96a82d15651c2d264/products/4171261/4171261_5_600x600_w_g.jpg"
+    },
+    "ean:198415234346": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:12.065Z",
+      "name": "HP ZBook Power G11 AMD Ryzen 9 Pro 32GB 1000GB RTX 3000 Ada 16\"",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011433028/hp-zbook-power-g11-amd-ryzen-9-pro-32gb-1000gb-rtx-3000-ada-16.jpeg"
+    },
+    "ean:5099206097223": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:13.675Z",
+      "name": "Logitech Signature M650 trådløs mus, grå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e7c3abd6d12154374d5300f145d1554e/products/1232898/1232898_2_600x600_w_g.jpg"
+    },
+    "ean:5099206098961": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:14.686Z",
+      "name": "Logitech MX Keys Mini trådløst tastatur, grafitt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-248664abe92d2e7bb59427e4742fd6d3/products/1202842/1202842_12_1200x1200_w_g.jpg"
+    },
+    "ean:195950622591": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:15.716Z",
+      "name": "Apple iPhone Air 256 GB, stellarsvart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d0cab2510afa51ada7d74e28bb332041/products/4157317/4157317_2_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|910-007182": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:23.741Z",
+      "name": "Logitech M240 for Business RF trådløs + Bluetooth Mus Grafitt",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011414769/logitech-m240-for-business-rf-trådls-bluetooth-mus-grafitt.png"
+    },
+    "ean:5099206039414": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:25.309Z",
+      "name": "Logitech MK270 Combo desktop",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-eac9f965f4e29bc9f5bc11c093642844/products/213339/213339_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206103207": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:26.336Z",
+      "name": "Logitech MX Mechanical Mini trådløst tastatur clicky",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7a60e7c4ce942acdb9981530fb64d02a/products/1443411/1443411_7_1200x1200_w_g.jpg"
+    },
+    "ean:195950627374": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:27.346Z",
+      "name": "Apple iPhone 17 Pro 256 GB, kosmisk oransje",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-584abd5988dface4ad418d89a9433a00/products/4157296/4157296_2_1200x1200_w_g.jpg"
+    },
+    "ean:199251889394": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:28.608Z",
+      "name": "HP EliteDesk 8 G1 SFF stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-351c650b8e2b1d23745ccc221a091641/products/4132009/4132009_6_600x600_w_g.jpg"
+    },
+    "ean:195951021768": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:29.622Z",
+      "name": "Apple Mac Mini (2026, M6) 24/512 GB",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-73ff5a24197c420fc451823a318e6a77/products/4525601/4525601_13_1200x1200_w_g.jpg"
+    },
+    "ean:195951410876": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:30.629Z",
+      "name": "Apple iPhone 18 Pro Max 512 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-52c374d62cfbf4dd90ab0a6f48ad4c0a/products/4532313/4532313_2_1200x1200_w_g.jpg"
+    },
+    "ean:195892133520": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:36.984Z",
+      "name": "Lenovo NVIDIA RTX PRO 6000 Blackwell 96GB 96GB",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011713315/lenovo-nvidia-rtx-pro-6000-blackwell-96gb-96gb.png"
+    },
+    "ean:195951416571": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:39.120Z",
+      "name": "Apple iPhone 18 Pro 1 TB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-4f596d77f753afa0948507af06a9ce30/products/4532302/4532302_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206066717": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:45.735Z",
+      "name": "Logitech M330 Silent Plus RF kabel-fri Mus Svart",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d200001001133488/logitech-m330-silent-plus-rf-kabel-fri-mus-svart.jpg"
+    },
+    "ean:5099206129962": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:52.520Z",
+      "name": "Logitech Brio 4K",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011433966/logitech-brio-4k.jpg"
+    },
+    "ean:199896342025": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:54.289Z",
+      "name": "HP ProDesk 4 Mini G1i D2PR4ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f45c06a875916543156c7302fee8b0ed/products/4269580/4269580_9_1200x1200_w_g.jpg"
+    },
+    "ean:195951031101": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:55.320Z",
+      "name": "Apple iPhone 17e 512 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-bb8c011c5616239e670b74f70ed45302/products/4252871/4252871_8_1200x1200_w_g.jpg"
+    },
+    "ean:5099206128330": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:56.327Z",
+      "name": "Logitech M196 trådløs Bluetooth-mus, grafitt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b770fc0000ee476bd8afd59949ec80d8/products/3539999/3539999_11_1200x1200_w_g.jpg"
+    },
+    "ean:5099206104945": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:57.364Z",
+      "name": "Logitech Brio 300 Full HD webkamera off-white",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-bf9129ee5cd40ddaf78c6b3e5881655b/products/1937157/1937157_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206112322": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:58.382Z",
+      "name": "Logitech MX Keys S trådløst tastatur blekgrå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-6834a600ceaf1977dd2326d79cfd903b/products/2175544/2175544_12_1200x1200_w_g.jpg"
+    },
+    "ean:199251670800": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:18:59.831Z",
+      "name": "HP Z2 Mini G1a A40QTET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-eb58dbb31f10f9bcecdb80751fb2abab/products/4216764/4216764_8_900x900_w_g.jpg"
+    },
+    "ean:195951410968": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:00.836Z",
+      "name": "Apple iPhone 18 Pro Max 2 TB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a1781e5aaa004a95c48ba1d3d7a3eabd/products/4532322/4532322_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950718584": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:01.860Z",
+      "name": "Apple MacBook Pro 14\" (2026, M5 Pro) 24/1 TB, stellarsvart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b64a336cd8d2d8d02ae118b51e015369/products/4253502/4253502_10_1200x1200_w_g.jpg"
+    },
+    "ean:195950639629": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:02.872Z",
+      "name": "Apple iPhone 17 Pro Max 512 GB, kosmisk oransje",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7a63d089e0f56bb3b91017a9de058d9d/products/4157309/4157309_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951410920": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:03.884Z",
+      "name": "Apple iPhone 18 Pro Max 1 TB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-5e16b36b0459381e76240a12e20d09ac/products/4532318/4532318_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206097230": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:10.518Z",
+      "name": "Logitech Signature M650 Bluetooth Mus Rosa",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011520618/logitech-signature-m650-bluetooth-mus-rosa.png"
+    },
+    "ean:5099206107885": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:17.430Z",
+      "name": "Logitech MX Master 3S (for Business) Bluetooth Mus Grafitt",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011521434/logitech-mx-master-3s-for-business-bluetooth-mus-grafitt.png"
+    },
+    "ean:5099206103191": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:19.055Z",
+      "name": "Logitech MX Mechanical Mini trådløst tastatur linear",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b04ead68d0d42b0aa8b674eb6a81241e/products/1443410/1443410_7_1200x1200_w_g.jpg"
+    },
+    "ean:5099206103184": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:20.079Z",
+      "name": "Logitech MX Mechanical Mini trådløst tastatur tactile",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-5e3ef2b1885244cff9f04698413137ca/products/1443409/1443409_6_1200x1200_w_g.jpg"
+    },
+    "ean:195950713718": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:21.114Z",
+      "name": "Apple MacBook Pro 16\" (2026, M5 Max) 36/2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f8c9e09b735cd80ae5491595ee85ba2a/products/4253513/4253513_11_1200x1200_w_g.jpg"
+    },
+    "ean:195950713244": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:22.150Z",
+      "name": "Apple MacBook Pro 16\" (2026, M5 Pro) 48/1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-4cc8336a251b42c7f18f4be46c933be6/products/4253512/4253512_20_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|910-005905": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:27.485Z",
+      "name": "Logitech M190 RF kabel-fri Mus Charcoal",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011109525/logitech-m190-rf-kabel-fri-mus-charcoal.jpg"
+    },
+    "ean:5099206097247": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:29.077Z",
+      "name": "Logitech Signature M650 trådløs mus, hvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-c3decc625d287163c34949ba540f94df/products/1232900/1232900_2_600x600_w_g.jpg"
+    },
+    "ean:197961473834": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:35.584Z",
+      "name": "HP Z4 G5 Intel Xeon W 32GB 1000GB",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011783901/hp-z4-g5-intel-xeon-w-32gb-1000gb.png"
+    },
+    "ean:5099206129719": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:37.180Z",
+      "name": "LOGITECH BRIO 4K WEBCAM GRAPHITE",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f3971b37f2cb9ab89a2a515fe7f0e078/products/4077122/4077122_3_900x900_w_g.jpg"
+    },
+    "mpn:logitech|920-013015": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:42.453Z",
+      "name": "Logitech Keys To Go 2 (Apple) Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011308719/logitech-keys-to-go-2-apple-trådls-nordisk.png"
+    },
+    "ean:195950051124": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:44.042Z",
+      "name": "Apple iPhone 16e 128 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-57265c3a8316c48d51a886bc5b6d5456/products/4008995/4008995_6_1200x1200_w_g.jpg"
+    },
+    "ean:195951030722": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:45.058Z",
+      "name": "Apple iPhone 17e 256 GB, white",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-651982a10c63ea23d036bdf5417baa66/products/4252869/4252869_8_1200x1200_w_g.jpg"
+    },
+    "ean:5099206098985": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:51.519Z",
+      "name": "Logitech MX Keys Mini Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011416850/logitech-mx-keys-mini-trådls-nordisk.png"
+    },
+    "ean:195950644111": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:53.108Z",
+      "name": "Apple iPhone 17 256 GB, lavendel",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-dd93e7ed36e1a935c306383cec4979c6/products/4157287/4157287_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951031293": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:54.111Z",
+      "name": "Apple iPhone 17e 512 GB, white",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-271aac2ce6edef2856da8663f416f816/products/4252872/4252872_8_1200x1200_w_g.jpg"
+    },
+    "ean:197961408034": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:55.261Z",
+      "name": "HP Series 5 Pro 524PU 23.8\" Full HD skjerm",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-0371ee833dd6b3eb5f311e67871f7763/products/4092221/4092221_7_1200x1200_w_g.jpg"
+    },
+    "ean:197961409550": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:19:56.410Z",
+      "name": "HP Series 5 Pro 527PU 27\" QHD skjerm",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-872f58ffeaee302c3b13f463a942bef1/products/4092225/4092225_11_1200x1200_w_g.jpg"
+    },
+    "ean:197961473872": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:04.674Z",
+      "name": "HP Z4 G5 Intel Xeon W 64GB 1000GB",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011786903/hp-z4-g5-intel-xeon-w-64gb-1000gb.png"
+    },
+    "ean:199251670008": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:06.641Z",
+      "name": "HP Z2 Mini G1I A40QPET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2f3a3ab77ca682b78389337abada33af/products/4171263/4171263_6_600x600_w_g.jpg"
+    },
+    "ean:195950640427": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:07.675Z",
+      "name": "Apple iPhone 17 Pro Max 1 TB, dypblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-ca73d543d1c74c15bbdc1b5958700715/products/4157313/4157313_2_1200x1200_w_g.jpg"
+    },
+    "ean:199251693182": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:08.861Z",
+      "name": "HP ProDesk 400 G9 SFF 9H7L1ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e1c39fbd81f33ce05394e7490b21ab4a/products/4171257/4171257_5_600x600_w_g.jpg"
+    },
+    "mpn:logitech|910-005906": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:14.473Z",
+      "name": "Logitech M190 RF kabel-fri Mus Grå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011109531/logitech-m190-rf-kabel-fri-mus-grå.jpg"
+    },
+    "ean:195951410869": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:16.060Z",
+      "name": "Apple iPhone 18 Pro Max 512 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2d921b35f5acc889e28984ef36fbb720/products/4532312/4532312_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951406206": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:17.094Z",
+      "name": "Apple iPhone Duo 256 GB, nattehimmel",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-968d966f0f83ee930ca3cce30998fdcb/products/4532326/4532326_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206066977": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:19.412Z",
+      "name": "Logitech C922 30FPS 1080P Professionel Streaming Webkamera",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/896464.jpg"
+    },
+    "ean:195949822629": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:20.440Z",
+      "name": "Apple iPhone 16 128 GB, blågrønn",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-1b8609c3ef70dd4436e1e5e57f02295b/products/3614197/3614197_10_1200x1200_w_g.jpg"
+    },
+    "ean:5099206097261": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:27.056Z",
+      "name": "Logitech M650 for Business Bluetooth Mus Hvit",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011520796/logitech-m650-for-business-bluetooth-mus-hvit.png"
+    },
+    "ean:5099206105485": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:34.301Z",
+      "name": "Logitech MK650 Combo For Business Logi Bolt Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011420907/logitech-mk650-combo-for-business-logi-bolt-trådls-nordisk.png"
+    },
+    "ean:195950627770": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:37.247Z",
+      "name": "Apple iPhone 17 Pro 512 GB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-96612716a362fd8d9f4ba737f2f5bf33/products/4157298/4157298_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206104952": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:38.398Z",
+      "name": "Logitech Brio 300 Full HD webkamera rose",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-717f2a9450aa5ff222c32cc2e90f5dd5/products/1937158/1937158_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206113275": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:41.855Z",
+      "name": "Logitech Brio 100 Full HD webkamera (off-white)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1249334.jpg"
+    },
+    "ean:5099206101432": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:42.864Z",
+      "name": "Logitech MX Keys Mini Business trådløst tastatur, grafitt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-73cbd996f6d8126f23193cefdcad0926/products/3917358/3917358_1_1200x1200_w_g.jpg"
+    },
+    "ean:195951416618": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:43.893Z",
+      "name": "Apple iPhone 18 Pro 2 TB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-dc05ef13c9800ab701159d27750859f5/products/4532306/4532306_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950698879": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:48.048Z",
+      "name": "Apple MacBook Air 15\" (2026, M5) 16/1 TB, himmelblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-dc97140a87740f81bae6bc53fa21bff1/products/4253494/4253494_9_1200x1200_w_g.jpg"
+    },
+    "ean:195950854060": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:50.169Z",
+      "name": "Apple MacBook Neo 13\" (A18 Pro) 8/512 GB, svak rosa",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-4184b56c64301a7830659c6e449a3bc8/products/4254016/4254016_10_1200x1200_w_g.jpg"
+    },
+    "ean:199485083322": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:51.610Z",
+      "name": "HP Z1 Tower G1i B76S3ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a9c94e2beccac7ba6c6f54b67eca057c/products/4194439/4194439_6_1200x1200_w_g.jpg"
+    },
+    "ean:199485076430": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:52.871Z",
+      "name": "HP Z2 Tower G1i B76S4ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-300371fd4fc777187ec0745dba36eb7e/products/4208526/4208526_10_1200x1200_w_g.jpg"
+    },
+    "ean:195950644913": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:54.012Z",
+      "name": "Apple iPhone 17 512 GB, duggblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-42d91ae5646a8023db57dba9e6677037/products/4157291/4157291_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950628777": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:55.498Z",
+      "name": "Apple iPhone 17 Pro 1 TB, dypblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-6f96baef0f926e069cfb8e7768ee8c7e/products/4157303/4157303_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951406565": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:56.777Z",
+      "name": "Apple iPhone Duo 512 GB, nattehimmel",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-8a701da3ef6f75e0a2935ecff32f73a5/products/4532328/4532328_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951022154": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:57.838Z",
+      "name": "Apple Mac Mini (2026, M5 Pro) 24/512 GB",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-3c11f06b5712dd57fcf5986de044ce29/products/4525602/4525602_22_1200x1200_w_g.jpg"
+    },
+    "ean:195951410913": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:20:58.870Z",
+      "name": "Apple iPhone 18 Pro Max 1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-fbdb994e6643e4af36bce16a12080098/products/4532317/4532317_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206063921": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:06.125Z",
+      "name": "Logitech Mk235 Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011414750/logitech-mk235-trådls-nordisk.png"
+    },
+    "ean:195950628371": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:08.682Z",
+      "name": "Apple iPhone 17 Pro 1 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7b546b8c16df3df24f61830ec0a7caab/products/4157301/4157301_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950623390": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:17.640Z",
+      "name": "Apple iPhone Air 512GB Svart",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011550890/apple-iphone-air-512gb-svart.jpg"
+    },
+    "ean:195951031484": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:20.529Z",
+      "name": "iPhone 17e 512GB (myk rosa)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/nb-no/1200/1336968.jpg"
+    },
+    "ean:195951416489": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:21.556Z",
+      "name": "Apple iPhone 18 Pro 256 GB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2f15b8fbbc4ad3319e9c0cc2c02047c3/products/4532293/4532293_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416496": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:22.587Z",
+      "name": "Apple iPhone 18 Pro 256 GB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-93ea24df52cea5b91318f133bf166b66/products/4532294/4532294_2_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|960-001428": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:29.073Z",
+      "name": "Logitech Brio 500",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011521501/logitech-brio-500.png"
+    },
+    "ean:5099206111721": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:30.681Z",
+      "name": "Logitech MX Anywhere 3S trådløs mus, grafitt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-04bd04cbad072df18400f91ebfc022b7/products/2175546/2175546_9_1200x1200_w_g.jpg"
+    },
+    "ean:199251889547": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:31.857Z",
+      "name": "HP EliteDesk 8 G1 SFF stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d5cf65496398ad6235a5d291919b3a4a/products/4132011/4132011_2_600x600_w_g.jpg"
+    },
+    "ean:199896343077": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:32.820Z",
+      "name": "HP ProStudio 4 G1i 23.8 — Core Ultra 5 225T, 24GB/512GB",
+      "specs": {
+        "produkttype": "All-in-One PCs/Workstations",
+        "prosessor": "Intel Core Ultra 5 225T",
+        "minne": "24 GB",
+        "lagring": "512 GB SSD",
+        "grafikk": "Intel® Graphics",
+        "skjerm": "60.5 cm (23.8\"), 1920 x 1080 pixels",
+        "operativsystem": "Windows 11 Pro",
+        "nettverk": "Wi-Fi 6E (802.11ax), Bluetooth 5.3",
+        "farge": "Black"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:199274078560": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:33.835Z",
+      "name": "Lenovo ThinkStation P2 Tower Gen 2 30JQ008EMT stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-ca85bead795c1231099d9dbaf6264f9a/products/4311962/4311962_1_1200x1200_w_g.jpg"
+    },
+    "ean:5099206066908": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:34.850Z",
+      "name": "Logitech MK850 trådløs tastatur og mus",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-2afc026926af449b54b31f40c690ab22/products/944709/944709_5_1200x1200_w_g.jpg"
+    },
+    "ean:195950645118": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:35.877Z",
+      "name": "Apple iPhone 17 512 GB, lavendel",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-56b4facbf7f32d69838f6a8d39caf939/products/4157292/4157292_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951406381": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:37.233Z",
+      "name": "Apple iPhone Duo 512 GB, stjernehvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-959e0e31037701256d0b888cc8d1fd7f/products/4532327/4532327_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950718119": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:38.244Z",
+      "name": "Apple MacBook Pro 14\" (2026, M5 Max) 36/2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-cf550b93490434e08afdb051cec02747/products/4253507/4253507_10_1200x1200_w_g.jpg"
+    },
+    "ean:199251671005": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:39.441Z",
+      "name": "HP Z2 Mini G1a A40QRET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-0898979865ae92f6bfd1937fe5e95f2d/products/4216756/4216756_8_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|920-013777": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:46.375Z",
+      "name": "Logitech Signature K980 Solar+ For Business Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d20000131731/logitech-signature-k980-solar-for-business-trådls-nordisk.jpg"
+    },
+    "ean:195951410852": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:48.262Z",
+      "name": "Apple iPhone 18 Pro Max 256 GB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-3fef337946d268325b6112ddef9fda2e/products/4532311/4532311_2_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|910-005907": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:54.100Z",
+      "name": "Logitech M190 RF kabel-fri Mus Blå",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011109540/logitech-m190-rf-kabel-fri-mus-blå.jpg"
+    },
+    "ean:199251670497": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:57.201Z",
+      "name": "HP Z2 SFF G1i A40QJET mini-PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e0671ff4a2272a0ea9a0f0de143d685d/products/4171273/4171273_3_1200x1200_w_g.jpg"
+    },
+    "ean:195951410906": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:58.226Z",
+      "name": "Apple iPhone 18 Pro Max 1 TB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-1bc25a5510ce173f7559f25408c67542/products/4532316/4532316_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951416595": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:21:59.252Z",
+      "name": "Apple iPhone 18 Pro 2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-314e6148e54ada414a18ee21bbecfbae/products/4532304/4532304_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950719529": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:00.288Z",
+      "name": "Apple MacBook Pro 14\" (2026, M5 Max) 36/2 TB, stellarsvart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-3fcc3a5811468e430667d934fc22fd4e/products/4253508/4253508_10_1200x1200_w_g.jpg"
+    },
+    "ean:5099206066199": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:07.195Z",
+      "name": "Logitech M220 Silent RF kabel-fri Mus Charcoal",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011109481/logitech-m220-silent-rf-kabel-fri-mus-charcoal.jpg"
+    },
+    "ean:5099206064201": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:10.259Z",
+      "name": "Logitech HD C270 Webkamera",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/877049.jpg"
+    },
+    "ean:5099206032828": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:11.310Z",
+      "name": "Logitech K270 trådløst tastatur",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f55504c70d25336cb826913203c7cbf7/products/210468/210468_1_1200x1200_w_g.jpg"
+    },
+    "ean:5099206085862": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:12.552Z",
+      "name": "Logitech Ergo K860 trådløst tastatur",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-82667f2a112c421c3210055b6de95e50/products/1122205/1122205_5_900x900_w_g.jpg"
+    },
+    "ean:5099206112001": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:14.994Z",
+      "name": "Logitech M240 Tr&#xE5;dl&#xF8;s Mus (rosa)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1245447.jpg"
+    },
+    "ean:5099206103078": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:21.327Z",
+      "name": "Logitech MX Mechanical Trådløs Logitech Linear Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011417153/logitech-mx-mechanical-trådls-logitech-linear-nordisk.png"
+    },
+    "ean:195950714654": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:22.948Z",
+      "name": "Apple MacBook Pro 16\" (2026, M5 Pro) 24/1 TB, stellarsvart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d8ba3740c1d3cadc41ef2784dde30a31/products/4253510/4253510_21_1200x1200_w_g.jpg"
+    },
+    "ean:195950639827": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:24.008Z",
+      "name": "Apple iPhone 17 Pro Max 512 GB, dypblå",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d0e34e5567e60abbf53db279ad6c4014/products/4157310/4157310_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951410975": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:25.045Z",
+      "name": "Apple iPhone 18 Pro Max 2 TB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-36aab9a7d27b7cf407dcc688fa5bbacf/products/4532323/4532323_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950697469": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:26.193Z",
+      "name": "Apple MacBook Air 15\" (2026, M5) 16/1 TB, midnatt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e514db0cb50735af7c17b6040353b26a/products/4253493/4253493_1_1200x1200_w_g.jpg"
+    },
+    "ean:5099206065086": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:33.976Z",
+      "name": "Logitech M720 Triathlon Wireless RF trådløs + Bluetooth Mus Svart",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d200001001849291/logitech-m720-triathlon-wireless-rf-trådls-bluetooth-mus-svart.jpg"
+    },
+    "ean:195950644319": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:35.771Z",
+      "name": "Apple iPhone 17 256 GB, salvie",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-938b45dac974c4240b3d24910542bbba/products/4157288/4157288_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951030531": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:36.813Z",
+      "name": "Apple iPhone 17e 256 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-d24aca72f7d24764f505203faa7a3032/products/4252867/4252867_8_1200x1200_w_g.jpg"
+    },
+    "ean:195951416540": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:37.839Z",
+      "name": "Apple iPhone 18 Pro 1 TB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-e8eda6df2bd0977d80f6a8ed6e7ff429/products/4532299/4532299_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206111714": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:40.394Z",
+      "name": "Logitech MX Anywhere 3S tr&#xE5;dl&#xF8;s mus (rosa)",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1246065.jpg"
+    },
+    "ean:199642944008": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:41.576Z",
+      "name": "HP EliteStudio 8 G1i Alt-i-ett-PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a1d6ebd3d3d70df2ad2d21c03fe60393/products/4208518/4208518_3_1200x1200_w_g.jpg"
+    },
+    "ean:5099206052543": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:43.792Z",
+      "name": "Logitech M280 Tr&#xE5;dl&#xF8;s Mus Sort",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/824215.jpg"
+    },
+    "mpn:logitech|910-006034": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:49.276Z",
+      "name": "Logitech M705 for Business RF kabel-fri Mus Charcoal",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011342310/logitech-m705-for-business-rf-kabel-fri-mus-charcoal.jpeg"
+    },
+    "ean:199251670213": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:51.108Z",
+      "name": "HP Z2 Mini G1i stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-889ae08627fb82a6192039619bb537b8/products/4132017/4132017_4_1200x1200_w_g.jpg"
+    },
+    "ean:5099206104938": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:52.111Z",
+      "name": "Logitech Brio 300 Full HD webkamera, grafitt",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-8297512d7c835cbf8e75b996c69d4267/products/1937156/1937156_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950696059": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:53.134Z",
+      "name": "Apple MacBook Air 15\" (2026, M5) 16/1 TB, stjerneskinn",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-4e4643ffcfbc27d7adb0cac10cc1f3d4/products/4253492/4253492_9_1200x1200_w_g.jpg"
+    },
+    "ean:195951410845": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:22:54.159Z",
+      "name": "Apple iPhone 18 Pro Max 256 GB, burgunder",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-090f3a33847e1df42c4ba5efbba6be24/products/4532310/4532310_2_1200x1200_w_g.jpg"
+    },
+    "ean:097855206107": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:00.467Z",
+      "name": "Logitech Rally Streamline Kit",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011548185/logitech-rally-streamline-kit.png"
+    },
+    "ean:199276382856": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:01.474Z",
+      "name": "Lenovo ThinkStation P4 — Ryzen™ 5 PRO 9655, 32GB/1TB",
+      "specs": {
+        "produkttype": "PCs/Workstations",
+        "prosessor": "AMD Ryzen™ 5 PRO 9655",
+        "minne": "32 GB",
+        "lagring": "1 TB SSD",
+        "grafikk": "AMD Radeon Graphics",
+        "operativsystem": "Danish, Finnish, Swedish, Norwegian, English",
+        "farge": "Black",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:5099206064027": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:08.152Z",
+      "name": "Logitech C925e",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011216714/logitech-c925e.jpeg"
+    },
+    "ean:5099206109346": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:16.108Z",
+      "name": "Logitech MX Brio 705 for Business",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011518188/logitech-mx-brio-705-for-business.png"
+    },
+    "ean:195949822261": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:17.708Z",
+      "name": "Apple iPhone 16 128 GB, rosa",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-8f268f5724fb28d745f5b153f25cd779/products/3614195/3614195_8_1200x1200_w_g.jpg"
+    },
+    "ean:195951406923": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:18.745Z",
+      "name": "Apple iPhone Duo 1 TB, nattehimmel",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-92ca959e6a2f54889b360923ea9fe03f/products/4532330/4532330_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206097254": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:19.770Z",
+      "name": "Logitech Signature M650 trådløs mus, graphite",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-17625643acbd698c1e96b5bf0e50b3d8/products/3917356/3917356_8_1200x1200_w_g.jpg"
+    },
+    "ean:195951410944": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:21.374Z",
+      "name": "Apple iPhone 18 Pro Max 2 TB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-bc86a5caa830b75571e9a073e2456f16/products/4532320/4532320_2_1200x1200_w_g.jpg"
+    },
+    "ean:199251889653": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:22.574Z",
+      "name": "HP EliteDesk Mini 8 G1 998R4ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-30a61f37433fc4f502e42ffa7784d038/products/4171253/4171253_4_600x600_w_g.jpg"
+    },
+    "ean:199896071093": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:29.997Z",
+      "name": "HP EliteDesk 8 G1a Mini AMD Ryzen AI 5 32GB",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011722701/hp-elitedesk-8-g1a-mini-amd-ryzen-ai-5-32gb.png"
+    },
+    "ean:199896344159": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:31.709Z",
+      "name": "HP ProDesk 4 Mini G1i 265T mini-PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-6d176f1d6b5b1eb8d50e4c449c6d3f20/products/4269582/4269582_6_1200x1200_w_g.jpg"
+    },
+    "ean:195951410821": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:32.718Z",
+      "name": "Apple iPhone 18 Pro Max 256 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-5ec193e13c8f4ec45e240f726903b7df/products/4532307/4532307_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206112490": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:42.186Z",
+      "name": "Logitech MX Anywhere 3S For Business RF trådløs + Bluetooth Mus Grafitt",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011194059/logitech-mx-anywhere-3s-for-business-rf-trådls-bluetooth-mus-grafitt.png"
+    },
+    "ean:199485075037": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:43.973Z",
+      "name": "HP Z2 Tower G1i B76S5ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b4b29f7f481b6f9cc81c596006943498/products/4220932/4220932_5_600x600_w_g.jpg"
+    },
+    "ean:199764664778": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:45.186Z",
+      "name": "HP Z2 G1i Tower CW3V2ET#UUW stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-c5bd6fe9b4b43634be3350e6be8cd304/products/4216760/4216760_6_600x600_w_g.jpg"
+    },
+    "mpn:logitech|920-009810": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:46.920Z",
+      "name": "Logitech MK295 Silent Wireless Combo - GRAPHITE",
+      "specs": {},
+      "nameSource": "komplett",
+      "imageUrl": "https://www.komplett.no/product-media/b2c/en-us/1200/1164895.jpg"
+    },
+    "ean:195950644517": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:48.005Z",
+      "name": "Apple iPhone 17 512 GB, svart",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-481d9d78f46768026ecf649c53ca81b5/products/4157289/4157289_2_1200x1200_w_g.jpg"
+    },
+    "ean:195950639025": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:49.066Z",
+      "name": "Apple iPhone 17 Pro Max 256 GB, kosmisk oransje",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-f15fc67f733658d9a574ba96025e0b6e/products/4157306/4157306_2_1200x1200_w_g.jpg"
+    },
+    "ean:195951407289": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:50.107Z",
+      "name": "Apple iPhone Duo 2 TB, nattehimmel",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-89d4b25d63eb06e70750a0a77761a632/products/4532332/4532332_2_1200x1200_w_g.jpg"
+    },
+    "ean:5099206045200": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:56.424Z",
+      "name": "Logitech C930e",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d20000100262565/logitech-c930e.jpg"
+    },
+    "ean:195950643718": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:58.030Z",
+      "name": "Apple iPhone 17 256 GB, hvit",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-0acac243530744f0b9abf159dc3c440f/products/4157285/4157285_2_1200x1200_w_g.jpg"
+    },
+    "ean:199251082788": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:23:59.209Z",
+      "name": "HP Z4 G5 82G15ET stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-b59cec90c25d5e1d6eeee726708038f7/products/4216766/4216766_9_1200x1200_w_g.jpg"
+    },
+    "ean:199251701894": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:00.392Z",
+      "name": "HP ProStudio 4 G1i Alt-i-ett-PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-84c9df9f766eb6c3000ae06edca4de05/products/4171251/4171251_4_1200x1200_w_g.jpg"
+    },
+    "mpn:logitech|920-010931": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:05.634Z",
+      "name": "Logitech MX Keys Combo Gen 2 for Business Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011417426/logitech-mx-keys-combo-gen-2-for-business-trådls-nordisk.png"
+    },
+    "ean:5099206077447": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:07.228Z",
+      "name": "Logitech Cordl. Desktop mk540.",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-58fbd76258e25e05ae6b541a5143a0bf/products/893026/893026_8_1200x1200_w_g.jpg"
+    },
+    "ean:5099206098978": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:13.340Z",
+      "name": "Logitech MX Keys Mini Trådløs Nordisk",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011416877/logitech-mx-keys-mini-trådls-nordisk.png"
+    },
+    "ean:199251670299": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:15.259Z",
+      "name": "HP Z2 Mini G1I A40QMET arbeidsstasjon",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-da7428ec77b9a0eb9ae0df1110b6fb4e/products/4171269/4171269_6_600x600_w_g.jpg"
+    },
+    "ean:195950714180": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:16.297Z",
+      "name": "Apple MacBook Pro 16\" (2026, M5 Max) 48/2 TB, sølv",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-897f3e472f2b6b0284b216055732895d/products/4253515/4253515_11_1200x1200_w_g.jpg"
+    },
+    "ean:199764018861": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:17.487Z",
+      "name": "HP ZBook 8 G1i 14\" bærbar PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-7a67f03b8c21ceacce101360d6bafa80/products/4208511/4208511_8_600x600_w_g.jpg"
+    },
+    "ean:195951021379": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:18.511Z",
+      "name": "Apple Mac Mini (2026, M6) 16/512 GB",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-21dfac6ad981390f75d34a697263d8e7/products/4525600/4525600_13_1200x1200_w_g.jpg"
+    },
+    "ean:195951410890": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-24T21:24:19.539Z",
+      "name": "Apple iPhone 18 Pro Max 512 GB, isbre",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-9fb19ee77bf2f7f33e415caf145200d1/products/4532315/4532315_2_1200x1200_w_g.jpg"
     }
   }
 }
