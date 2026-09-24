@@ -1,0 +1,28 @@
+{
+  "name": "shop-impero-supplier-sync",
+  "version": "1.0.0",
+  "description": "Daglig synk av innkjøpspriser og lager fra leverandører (TD Synnex, ALSO, isicom.no) til shop.impero.no via Edge Functions",
+  "type": "module",
+  "scripts": {
+    "sync": "node --experimental-strip-types src/sync.ts",
+    "sync:also": "node --experimental-strip-types src/fetchers/also.ts",
+    "sync:tdsynnex": "node --experimental-strip-types src/fetchers/tdsynnex.ts",
+    "sync:isicom": "node --experimental-strip-types src/fetchers/isicom.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test src/enrichment/*.test.ts"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "playwright": "^1.48.0",
+    "jszip": "^3.10.1",
+    "node-html-parser": "^6.1.13",
+    "otpauth": "^9.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.6.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

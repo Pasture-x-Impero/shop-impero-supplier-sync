@@ -1,0 +1,153 @@
+name: TD Synnex Price Sync
+
+on:
+  schedule:
+    # Daglig kl. 23:20 UTC = 00:20 norsk vintertid / 01:20 sommertid.
+    # Flyttet 2026-09-16 fra '0 5 * * *' av to grunner (se CLAUDE.md):
+    # 1) GitHub-cron på hel time (05:00 UTC) startet 4-5 timer forsinket tre
+    #    dager på rad (kl. 10-12 norsk tid) — skjeve minutter utenfor de mest
+    #    brukte slottene starter langt mer presist.
+    # 2) Lovable sin publiseringsregel krever «innkjøpspris synket i dag»
+    #    (Oslo-dato), og en pg_cron-jobb (refresh-product-visibility, hvert
+    #    minutt :07) skjuler alt som ikke oppfyller den. Synken må derfor være
+    #    ferdig så tidlig som mulig ETTER midnatt norsk tid, ellers er butikken
+    #    tom fra 00:07 til synken er ferdig. 23:20 UTC er etter midnatt Oslo
+    #    både sommer og vinter.
+    - cron: '20 23 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Synk-modus'
+        required: true
+        default: 'tdsynnex'
+        type: choice
+        options:
+          - tdsynnex
+          - full
+          - tdsynnex-debug
+          - tdsynnex-debug-batch
+          - tdsynnex-debug-tdpn
+          - tdsynnex-debug-raw
+          - tdsynnex-debug-raw-mpn
+          - tdsynnex-debug-raw-mpn-extra
+          - tdsynnex-debug-count
+          - tdsynnex-discover
+          - mpns-debug
+          - icecat-images
+      part:
+        description: 'Del-/varenummer for debug-moduser (komma-separert liste for tdsynnex-debug-batch), ELLER produsentnavn for tdsynnex-discover (f.eks. "Apple")'
+        required: false
+        type: string
+      filter:
+        description: 'Kun for tdsynnex-discover: valgfritt ord produktnavnet må inneholde (f.eks. "MacBook")'
+        required: false
+        type: string
+      class:
+        description: 'Kun for tdsynnex-discover: valgfritt "class:subclass"-filter for å unngå 10 000-rads-cap (f.eks. "COMPORT:NOTEBOOKS" for Apple-notebooks)'
+        required: false
+        type: string
+
+jobs:
+  sync:
+    name: Synkroniser TD Synnex-priser
+    runs-on: ubuntu-latest
+    # contents: write trengs for "Oppdater Icecat-cache"-steget under (2026-09-20)
+    # — se planen (zazzy-splashing-lemon.md) og CLAUDE.md for hvorfor
+    # data/icecat-cache.json er en git-committed fil fremfor actions/cache.
+    permissions:
+      contents: write
+    # Verifisert i produksjon 2026-09-03: 4 020 kjente MPN-er, TD Synnex
+    # ferdig på 45,6 min uten feil (fetchTDSynnexForKnownMpns i tdsynnex.ts).
+    # 90 min gir god margin uten å la en reelt fastlåst kjøring henge i
+    # timevis før den feiler. `mode=full` (bred produsent-skann) er MYE
+    # tregere og mer risikabel — se advarsel i CLAUDE.md før bruk.
+    timeout-minutes: 90
+
+    steps:
+      - name: Sjekk ut kode
+        uses: actions/checkout@v4
+
+      - name: Sett opp Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Installer avhengigheter
+        run: npm ci
+
+      - name: Kjør synk
+        # Argumentene MÅ være anførselstegn-sitert: uten det forsvinner en tom
+        # `filter` som et eget shell-ord (word splitting), og `class` sklir inn
+        # i `filter` sin plass — bekreftet 2026-09-20 da et forsøk på å skanne
+        # Apple sin telefon-kategori (part=Apple, class=TELMOBILE:TELMOB, filter
+        # tomt) i praksis kjørte som filter="TELMOBILE:TELMOB" UTEN class-
+        # argumentet, og dermed traff det ubegrensede 10 000-rads-cap-søket
+        # (se CLAUDE.md "TD Synnex catalogue-API: 10 000-rads-cap") i stedet for
+        # det tiltenkte kategori-avgrensede søket.
+        run: node --experimental-strip-types src/sync.ts "${{ github.event.inputs.mode || 'tdsynnex' }}" "${{ github.event.inputs.part }}" "${{ github.event.inputs.filter }}" "${{ github.event.inputs.class }}"
+        env:
+          PRICE_SYNC_SECRET: ${{ secrets.PRICE_SYNC_SECRET }}
+          TDSYNNEX_CLIENT_ID: ${{ secrets.TDSYNNEX_CLIENT_ID }}
+          TDSYNNEX_CLIENT_SECRET: ${{ secrets.TDSYNNEX_CLIENT_SECRET }}
+
+      - name: Oppdater Icecat-cache (navn/specs-berikelse)
+        # Skriver kun hvis data/icecat-cache.json faktisk endret seg denne
+        # kjøringen — vanligste tilfelle er ingen endring (alt allerede cachet).
+        # continue-on-error: en feilet commit skal aldri felle selve prissynken
+        # — cachen bygges bare opp saktere/på nytt neste kjøring i så fall.
+        continue-on-error: true
+        run: |
+          if ! git diff --quiet -- data/icecat-cache.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/icecat-cache.json
+            git commit -m "chore: oppdater icecat-cache [skip ci]"
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push
+          else
+            echo "Ingen endringer i icecat-cache.json denne kjøringen."
+          fi
+
+      # Bilder (2026-09-15): TD Synnex sitt catalogue-API har INGEN bildefelt
+      # (verifisert med tdsynnex-debug-raw-mpn og -extra, se CLAUDE.md), så
+      # bilder kan ikke komme i samme leveranse som pris/lager. I stedet kalles
+      # Lovable sin Edge Function `import-icecat-images` (Icecat åpen katalog,
+      # oppslag på EAN, deretter produsent+MPN) etter hver synk. Den behandler
+      # kun produkter uten bilde som ikke er sjekket før, så på en vanlig dag
+      # returnerer den umiddelbart med remaining=0. Nye produkter får dermed
+      # bilde samme dag de kommer inn. Feil her skal aldri felle selve synken.
+      - name: Hent bilder fra Icecat for nye produkter uten bilde
+        if: contains(fromJSON('["tdsynnex","full","icecat-images"]'), github.event.inputs.mode || 'tdsynnex')
+        continue-on-error: true
+        env:
+          PRICE_SYNC_SECRET: ${{ secrets.PRICE_SYNC_SECRET }}
+        run: |
+          URL="https://umnxckqgnlohvawvfgzv.supabase.co/functions/v1/import-icecat-images"
+          total_found=0; total_processed=0
+          for i in $(seq 1 12); do
+            resp=$(curl -sS -m 400 -X POST "$URL"               -H "Content-Type: application/json"               -H "x-price-sync-secret: $PRICE_SYNC_SECRET"               -d '{"limit":60,"concurrency":6}') || { echo "::warning::Icecat-kall $i feilet (nettverk)"; break; }
+            echo "Icecat batch $i: $resp"
+            processed=$(echo "$resp" | node -e 'let d="";process.stdin.on("data",c=>d+=c).on("end",()=>{try{const j=JSON.parse(d);console.log(j.processed??0)}catch{console.log(0)}})')
+            found=$(echo "$resp" | node -e 'let d="";process.stdin.on("data",c=>d+=c).on("end",()=>{try{const j=JSON.parse(d);console.log(j.found??0)}catch{console.log(0)}})')
+            remaining=$(echo "$resp" | node -e 'let d="";process.stdin.on("data",c=>d+=c).on("end",()=>{try{const j=JSON.parse(d);console.log(j.remaining??"?")}catch{console.log("?")}})')
+            total_processed=$((total_processed + processed)); total_found=$((total_found + found))
+            [ "$remaining" = "0" ] && break
+            [ "$processed" = "0" ] && break
+          done
+          echo "🖼️ Icecat: $total_processed produkter sjekket, $total_found fikk bilde."
+
+      - name: Send Slack-varsel ved feil
+        # `secrets`-konteksten kan ikke brukes direkte i en `if:`-betingelse —
+        # gjør hele workflow-filen ugyldig (se CLAUDE.md, daily-sync.yml-
+        # hendelsen 2026-09-11). Send secreten gjennom env: først.
+        if: failure() && env.SLACK_WEBHOOK_URL != ''
+        uses: slackapi/slack-github-action@v1.26.0
+        with:
+          payload: |
+            {
+              "text": "⚠️ *TD Synnex price sync feilet* — ${{ github.workflow }} på ${{ github.ref }}\nSe detaljer: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        continue-on-error: true

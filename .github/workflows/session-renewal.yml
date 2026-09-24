@@ -1,0 +1,64 @@
+name: Session Cookie Renewal
+
+on:
+  schedule:
+    # Kjøres hver 6. time for å holde ALSO og isicom-cookies ferske
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'Hvilken sesjon skal fornyes?'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - also
+          - isicom
+
+jobs:
+  renew-cookies:
+    name: Forny sesjon-cookies
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Sjekk ut kode
+        uses: actions/checkout@v4
+
+      - name: Sett opp Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Installer avhengigheter (inkl. Playwright)
+        run: |
+          npm ci
+          npx playwright install chromium chrome --with-deps
+
+      - name: Installer Xvfb (for ekte, ikke-headless Chrome mot ALSO)
+        if: ${{ github.event.inputs.target == 'all' || github.event.inputs.target == 'also' || github.event_name == 'schedule' }}
+        run: sudo apt-get update && sudo apt-get install -y xvfb
+
+      - name: Forny ALSO sesjon-cookie
+        # Kjøres under Xvfb — renew-also-session.ts bruker nå ekte,
+        # ikke-headless Chrome (channel: 'chrome') i stedet for headless
+        # Chromium, se filkommentar der og CLAUDE.md for hvorfor.
+        if: ${{ github.event.inputs.target == 'all' || github.event.inputs.target == 'also' || github.event_name == 'schedule' }}
+        run: xvfb-run -a node --experimental-strip-types src/utils/renew-also-session.ts
+        env:
+          ALSO_USERNAME: ${{ secrets.ALSO_USERNAME }}
+          ALSO_PASSWORD: ${{ secrets.ALSO_PASSWORD }}
+          ALSO_TOTP_SECRET: ${{ secrets.ALSO_TOTP_SECRET }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN_SECRETS_WRITE }}
+          GH_REPO: ${{ github.repository }}
+
+      - name: Forny isicom sesjon-cookie
+        if: ${{ github.event.inputs.target == 'all' || github.event.inputs.target == 'isicom' || github.event_name == 'schedule' }}
+        run: node --experimental-strip-types src/utils/renew-isicom-session.ts
+        env:
+          ISICOM_USERNAME: ${{ secrets.ISICOM_USERNAME }}
+          ISICOM_PASSWORD: ${{ secrets.ISICOM_PASSWORD }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN_SECRETS_WRITE }}
+          GH_REPO: ${{ github.repository }}

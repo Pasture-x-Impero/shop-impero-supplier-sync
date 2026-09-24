@@ -1,0 +1,78 @@
+name: ALSO Price Sync
+
+on:
+  schedule:
+    # Daglig kl. 06:00 CET (05:00 UTC)
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Synk-modus'
+        required: true
+        default: 'also'
+        type: choice
+        options:
+          - also
+          - also-debug
+
+jobs:
+  sync:
+    name: Synkroniser ALSO-priser
+    runs-on: ubuntu-latest
+    # contents: write trengs for "Oppdater Icecat-cache"-steget under (2026-09-20)
+    # — se planen (zazzy-splashing-lemon.md) og CLAUDE.md.
+    permissions:
+      contents: write
+    # ALSO sin ZIP-nedlasting + parsing er raskt (sekunder til et par
+    # minutter) — 15 min gir god margin. Krever ALSO_SESSION_COOKIE satt og
+    # gyldig; se CLAUDE.md for manuell fornyelse (session-renewal.yml sin
+    # automatiske fornyelse er disabled inntil 2FA-automatiseringen er løst).
+    timeout-minutes: 15
+
+    steps:
+      - name: Sjekk ut kode
+        uses: actions/checkout@v4
+
+      - name: Sett opp Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Installer avhengigheter
+        run: npm ci
+
+      - name: Kjør synk
+        run: node --experimental-strip-types src/sync.ts ${{ github.event.inputs.mode || 'also' }}
+        env:
+          PRICE_SYNC_SECRET: ${{ secrets.PRICE_SYNC_SECRET }}
+          ALSO_SESSION_COOKIE: ${{ secrets.ALSO_SESSION_COOKIE }}
+
+      - name: Oppdater Icecat-cache (navn/specs-berikelse)
+        continue-on-error: true
+        run: |
+          if ! git diff --quiet -- data/icecat-cache.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/icecat-cache.json
+            git commit -m "chore: oppdater icecat-cache [skip ci]"
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push
+          else
+            echo "Ingen endringer i icecat-cache.json denne kjøringen."
+          fi
+
+      - name: Send Slack-varsel ved feil
+        # `secrets`-konteksten kan ikke brukes direkte i en `if:`-betingelse —
+        # gjør hele workflow-filen ugyldig (se CLAUDE.md, daily-sync.yml-
+        # hendelsen 2026-09-11). Send secreten gjennom env: først.
+        if: failure() && env.SLACK_WEBHOOK_URL != ''
+        uses: slackapi/slack-github-action@v1.26.0
+        with:
+          payload: |
+            {
+              "text": "⚠️ *ALSO price sync feilet* — ${{ github.workflow }} på ${{ github.ref }}\nSe detaljer: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        continue-on-error: true

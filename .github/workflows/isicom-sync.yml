@@ -1,0 +1,63 @@
+name: isicom.no Price Sync
+
+# Ingen `schedule`-trigger med vilje — isicom.no er lavest prioritet (ALSO
+# dekker Jabra via GN NETCOM allerede, se CLAUDE.md) og skal kun kjøres ved
+# eksplisitt forespørsel. Denne filen finnes slik at muligheten er der uten
+# at noen må skrive workflowen fra bunnen av den dagen den faktisk trengs.
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    name: Synkroniser isicom-priser
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    # contents: write trengs for "Oppdater Icecat-cache"-steget under (2026-09-20)
+    # — se planen (zazzy-splashing-lemon.md) og CLAUDE.md.
+    permissions:
+      contents: write
+
+    steps:
+      - name: Sjekk ut kode
+        uses: actions/checkout@v4
+
+      - name: Sett opp Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Installer avhengigheter
+        run: npm ci
+
+      - name: Kjør synk
+        run: node --experimental-strip-types src/sync.ts isicom
+        env:
+          PRICE_SYNC_SECRET: ${{ secrets.PRICE_SYNC_SECRET }}
+          ISICOM_SESSION_COOKIE: ${{ secrets.ISICOM_SESSION_COOKIE }}
+
+      - name: Oppdater Icecat-cache (navn/specs-berikelse)
+        continue-on-error: true
+        run: |
+          if ! git diff --quiet -- data/icecat-cache.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/icecat-cache.json
+            git commit -m "chore: oppdater icecat-cache [skip ci]"
+            git pull --rebase origin "${{ github.ref_name }}"
+            git push
+          else
+            echo "Ingen endringer i icecat-cache.json denne kjøringen."
+          fi
+
+      - name: Send Slack-varsel ved feil
+        if: failure() && env.SLACK_WEBHOOK_URL != ''
+        uses: slackapi/slack-github-action@v1.26.0
+        with:
+          payload: |
+            {
+              "text": "⚠️ *isicom price sync feilet* — ${{ github.workflow }} på ${{ github.ref }}\nSe detaljer: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            }
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        continue-on-error: true
