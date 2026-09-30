@@ -17164,6 +17164,67 @@
       "specs": {},
       "nameSource": "power",
       "imageUrl": "https://media.power-cdn.net/images/h-9fb19ee77bf2f7f33e415caf145200d1/products/4532315/4532315_2_1200x1200_w_g.jpg"
+    },
+    "ean:199276394972": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-30T02:12:53.141Z",
+      "name": "Lenovo ThinkStation P4 — Ryzen™ 7 PRO 9655, 64GB/1TB",
+      "specs": {
+        "produkttype": "PCs/Workstations",
+        "prosessor": "AMD Ryzen™ 7 PRO 9655",
+        "minne": "64 GB",
+        "lagring": "1 TB SSD",
+        "grafikk": "AMD Radeon Graphics",
+        "operativsystem": "Danish, Finnish, Swedish, Norwegian, English",
+        "farge": "Black",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:881767241345": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-30T02:13:02.281Z",
+      "name": "HP EliteBook 6 G2i 14 Intel Core Ultra 5 16GB 512GB 14\"",
+      "specs": {
+        "produkttype": "Laptop",
+        "prosessor": "Intel Core Ultra 5 325",
+        "minne": "16 GB",
+        "lagring": "512 GB SSD",
+        "grafikk": "Intel® Graphics",
+        "skjerm": "35.6 cm (14\"), 1920 x 1200 pixels",
+        "operativsystem": "Windows 11 Pro",
+        "nettverk": "Wi-Fi 7 (802.11be), Bluetooth 6.0",
+        "farge": "Silver",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011829455/hp-elitebook-6-g2i-14-intel-core-ultra-5-16gb-512gb-14.png"
+    },
+    "ean:199275200861": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-30T02:13:03.777Z",
+      "name": "Lenovo ThinkPad E16 Gen 3 (Intel) Copilot+ PC — Core Ultra 7 258V, 32GB/512GB",
+      "specs": {
+        "produkttype": "Laptop",
+        "prosessor": "Intel Core Ultra 7 258V",
+        "minne": "32 GB",
+        "lagring": "512 GB SSD",
+        "grafikk": "Intel Arc Graphics 140V",
+        "skjerm": "40.6 cm (16\"), 1920 x 1200 pixels",
+        "operativsystem": "Danish, Finnish, Swedish, Norwegian, English",
+        "nettverk": "Wi-Fi 6E (802.11ax), Bluetooth 5.3",
+        "farge": "Black",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:199274078515": {
+      "status": "matched",
+      "lastCheckedAt": "2026-09-30T02:13:05.999Z",
+      "name": "Lenovo ThinkStation P2 Tower Gen 2 30JQ008FMT stasjonær PC",
+      "specs": {},
+      "nameSource": "power",
+      "imageUrl": "https://media.power-cdn.net/images/h-a7eaebed8b3034ef4bba2b25f00f2e69/products/4311964/4311964_8_900x900_w_g.jpg"
     }
   }
 }
