@@ -17239,6 +17239,15 @@
       "specs": {},
       "nameSource": "power",
       "imageUrl": "https://media.power-cdn.net/images/h-a7eaebed8b3034ef4bba2b25f00f2e69/products/4311964/4311964_8_900x900_w_g.jpg"
+    },
+    "ean:195892107798": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-07T02:30:06.236Z",
+      "name": null,
+      "specs": {
+        "produkttype": "Interface Cards/Adapters",
+        "farge": "Black"
+      }
     }
   }
 }
