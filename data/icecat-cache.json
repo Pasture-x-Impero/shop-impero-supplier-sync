@@ -17248,6 +17248,17 @@
         "produkttype": "Interface Cards/Adapters",
         "farge": "Black"
       }
+    },
+    "ean:8806099163129": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-08T02:45:56.286Z",
+      "name": "Samsung S80H",
+      "specs": {
+        "produkttype": "Computer Monitors",
+        "skjerm": "81.3 cm (32\"), 3840 x 2160 pixels",
+        "farge": "Black"
+      },
+      "nameSource": "icecat"
     }
   }
 }
