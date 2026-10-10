@@ -17259,6 +17259,10 @@
         "farge": "Black"
       },
       "nameSource": "icecat"
+    },
+    "ean:703674566468": {
+      "status": "not_found",
+      "lastCheckedAt": "2026-10-10T02:27:22.756Z"
     }
   }
 }
