@@ -17263,6 +17263,22 @@
     "ean:703674566468": {
       "status": "not_found",
       "lastCheckedAt": "2026-10-10T02:27:22.756Z"
+    },
+    "ean:5099206137417": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-14T02:01:47.796Z",
+      "name": "Logitech Rally AI Camera Pro",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011857449/logitech-rally-ai-camera-pro.webp"
+    },
+    "ean:195892150152": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-14T02:01:53.923Z",
+      "name": null,
+      "specs": {
+        "produkttype": "Display Privacy Filters"
+      }
     }
   }
 }
