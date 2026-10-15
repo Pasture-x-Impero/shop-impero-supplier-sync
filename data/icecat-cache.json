@@ -17279,6 +17279,18 @@
       "specs": {
         "produkttype": "Display Privacy Filters"
       }
+    },
+    "ean:8712581805890": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-15T01:35:27.894Z",
+      "name": "Philips Evnia 27M2N3500NL 27\" 2560 × 1440pixels VA 16:9 180Hz",
+      "specs": {
+        "produkttype": "Computer Monitors",
+        "skjerm": "68.6 cm (27\"), 2560 x 1440 pixels",
+        "farge": "Black"
+      },
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011436047/philips-evnia-27m2n3500nl-27-2560-1440pixels-va-169-180hz.jpeg"
     }
   }
 }
