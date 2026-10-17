@@ -17291,6 +17291,14 @@
       },
       "nameSource": "dustin",
       "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011436047/philips-evnia-27m2n3500nl-27-2560-1440pixels-va-169-180hz.jpeg"
+    },
+    "ean:195892092544": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-17T01:23:18.721Z",
+      "name": null,
+      "specs": {
+        "produkttype": "Headphone/Headset Accessories"
+      }
     }
   }
 }
