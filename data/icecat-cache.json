@@ -14242,207 +14242,219 @@
     },
     "ean:885981815917": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:01.220Z"
+      "lastCheckedAt": "2026-10-20T01:56:28.131Z"
     },
     "ean:195122785321": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:05.948Z"
+      "lastCheckedAt": "2026-10-20T01:56:33.194Z"
     },
     "ean:5054444750095": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:11.581Z"
+      "lastCheckedAt": "2026-10-20T01:56:38.002Z"
     },
     "ean:5054444818023": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:17.055Z"
+      "lastCheckedAt": "2026-10-20T01:56:42.138Z"
     },
     "mpn:lenovo|zg38c07934": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:20.282Z"
+      "lastCheckedAt": "2026-10-20T01:56:45.553Z"
     },
     "ean:195949837104": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:25.716Z"
+      "lastCheckedAt": "2026-10-20T01:56:49.891Z"
     },
     "ean:5099206126374": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:31.180Z"
+      "lastCheckedAt": "2026-10-20T01:57:02.584Z"
     },
     "ean:5099206028845": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:37.624Z"
+      "lastCheckedAt": "2026-10-20T01:56:54.114Z"
     },
     "ean:199274078188": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:43.405Z"
+      "lastCheckedAt": "2026-10-20T01:56:58.450Z"
     },
     "ean:5099206028852": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:49.508Z"
+      "lastCheckedAt": "2026-10-20T01:57:06.174Z"
     },
     "mpn:hp|4y5y9av_46723968_53228410": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:52.827Z"
+      "lastCheckedAt": "2026-10-20T01:57:11.126Z"
     },
     "mpn:lenovo|5ms1q40725": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:08:56.872Z"
+      "lastCheckedAt": "2026-10-20T01:57:14.355Z"
     },
     "mpn:lenovo|40emtd1022": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:00.250Z"
+      "lastCheckedAt": "2026-10-20T01:57:17.216Z"
     },
     "mpn:lenovo|4ze1n44993": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:03.272Z"
+      "lastCheckedAt": "2026-10-20T01:57:20.140Z"
     },
     "ean:5099206108783": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:08.562Z"
+      "lastCheckedAt": "2026-10-20T01:57:24.805Z"
     },
     "mpn:lenovo|4x91w44833": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:12.966Z"
+      "lastCheckedAt": "2026-10-20T01:57:29.068Z"
     },
     "mpn:lenovo|4z11u45359": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:16.080Z"
+      "lastCheckedAt": "2026-10-20T01:57:32.632Z"
     },
     "ean:5099206126398": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:20.478Z"
+      "lastCheckedAt": "2026-10-20T01:57:36.863Z"
     },
     "ean:199764527783": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:24.881Z"
+      "lastCheckedAt": "2026-10-20T01:57:41.167Z"
     },
     "ean:0196802990493": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:29.396Z"
+      "lastCheckedAt": "2026-10-20T01:57:44.948Z"
     },
     "ean:5099206133532": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:34.178Z"
+      "lastCheckedAt": "2026-10-20T01:57:48.386Z"
     },
     "ean:190780958629": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:40.497Z"
+      "lastCheckedAt": "2026-10-20T01:57:55.979Z"
     },
     "mpn:lenovo|4x21u95406": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:44.307Z"
+      "lastCheckedAt": "2026-10-20T01:57:59.202Z"
     },
     "mpn:lenovo|4z11u45354": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:47.209Z"
+      "lastCheckedAt": "2026-10-20T01:58:02.890Z"
     },
     "mpn:lenovo|4x51u68442": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:50.220Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T01:58:05.774Z",
+      "name": null,
+      "specs": {
+        "produkttype": "Laptop Spare Parts"
+      }
     },
     "ean:199642472037": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:09:54.869Z"
+      "lastCheckedAt": "2026-10-20T01:58:10.306Z"
     },
     "ean:199275109690": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:00.370Z"
+      "lastCheckedAt": "2026-10-20T01:58:14.732Z"
     },
     "ean:0199276050922": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:05.305Z"
+      "lastCheckedAt": "2026-10-20T01:58:19.187Z"
     },
     "ean:195697114533": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:10.959Z"
+      "lastCheckedAt": "2026-10-20T01:58:24.079Z"
     },
     "ean:5099206124790": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:15.733Z"
+      "lastCheckedAt": "2026-10-20T01:58:27.944Z"
     },
     "mpn:lenovo|4z11p90575": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:19.173Z"
+      "lastCheckedAt": "2026-10-20T01:58:30.776Z"
     },
     "ean:5054444668802": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:26.608Z"
+      "lastCheckedAt": "2026-10-20T01:58:34.762Z"
     },
     "ean:0199276048684": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:32.360Z"
+      "lastCheckedAt": "2026-10-20T01:58:39.233Z"
     },
     "mpn:logitech|960-001421": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:35.527Z"
+      "lastCheckedAt": "2026-10-20T01:58:42.138Z"
     },
     "mpn:lenovo|4y41s04683": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:41.100Z"
+      "lastCheckedAt": "2026-10-20T01:58:44.921Z"
     },
     "mpn:lenovo|4z71q38933": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:46.209Z"
+      "lastCheckedAt": "2026-10-20T01:58:47.672Z"
     },
     "mpn:lenovo|4z11u45360": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:49.483Z"
+      "lastCheckedAt": "2026-10-20T01:58:50.733Z"
     },
     "ean:0195235918623": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:54.518Z"
+      "lastCheckedAt": "2026-10-20T01:58:55.104Z"
     },
     "mpn:lenovo|4zf0w90174": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:10:57.753Z"
+      "lastCheckedAt": "2026-10-20T01:58:58.348Z"
     },
     "ean:881767972959": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:02.425Z"
+      "lastCheckedAt": "2026-10-20T01:59:02.941Z"
     },
     "ean:889899841716": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:08.415Z"
+      "lastCheckedAt": "2026-10-20T01:59:06.991Z"
     },
     "ean:199251082740": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:13.416Z"
+      "lastCheckedAt": "2026-10-20T01:59:10.973Z"
     },
     "ean:197961567137": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:18.485Z"
+      "lastCheckedAt": "2026-10-20T01:59:15.375Z"
     },
     "ean:5099206113282": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:22.967Z"
+      "lastCheckedAt": "2026-10-20T01:59:19.259Z"
     },
     "ean:197532953697": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:30.519Z"
+      "lastCheckedAt": "2026-10-20T01:59:25.911Z"
     },
     "mpn:logitech|910-006867": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:25.870Z"
+      "lastCheckedAt": "2026-10-20T01:59:22.006Z"
     },
     "mpn:logitech|960-001809": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:33.581Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T01:59:30.259Z",
+      "name": "Logitech Rally AI Camera",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011857537/logitech-rally-ai-camera.webp"
     },
     "mpn:lenovo|5ms1q40721": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:36.551Z"
+      "lastCheckedAt": "2026-10-20T01:59:33.396Z"
     },
     "ean:197029403384": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:40.866Z"
+      "lastCheckedAt": "2026-10-20T01:59:37.696Z"
     },
     "ean:195892147855": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:45.686Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T01:59:42.012Z",
+      "name": null,
+      "specs": {
+        "produkttype": "Stylus Pens"
+      }
     },
     "ean:198122010998": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:50.535Z"
+      "lastCheckedAt": "2026-10-20T01:59:46.108Z"
     },
     "ean:195892150039": {
       "status": "matched",
@@ -14454,79 +14466,79 @@
     },
     "mpn:hp|ax8q2av_46723968_53994795": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:11:59.943Z"
+      "lastCheckedAt": "2026-10-20T01:59:49.036Z"
     },
     "ean:5099206124783": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:05.350Z"
+      "lastCheckedAt": "2026-10-20T01:59:52.919Z"
     },
     "ean:190781769323": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:12.148Z"
+      "lastCheckedAt": "2026-10-20T01:59:56.661Z"
     },
     "ean:888440596549": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:16.555Z"
+      "lastCheckedAt": "2026-10-20T02:00:00.309Z"
     },
     "mpn:lenovo|40emtd9041": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:19.865Z"
+      "lastCheckedAt": "2026-10-20T02:00:03.297Z"
     },
     "ean:5099206111615": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:25.425Z"
+      "lastCheckedAt": "2026-10-20T02:00:08.646Z"
     },
     "ean:5054444670010": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:29.796Z"
+      "lastCheckedAt": "2026-10-20T02:00:13.015Z"
     },
     "ean:5054444613178": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:34.006Z"
+      "lastCheckedAt": "2026-10-20T02:00:18.679Z"
     },
     "ean:085896543763": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:38.160Z"
+      "lastCheckedAt": "2026-10-20T02:00:24.573Z"
     },
     "ean:085896001416": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:43.280Z"
+      "lastCheckedAt": "2026-10-20T02:00:29.205Z"
     },
     "ean:5099206062863": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:48.735Z"
+      "lastCheckedAt": "2026-10-20T02:00:33.817Z"
     },
     "ean:5054444662381": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:53.907Z"
+      "lastCheckedAt": "2026-10-20T02:00:39.472Z"
     },
     "ean:889899841747": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:12:58.235Z"
+      "lastCheckedAt": "2026-10-20T02:00:43.638Z"
     },
     "ean:885981813876": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:03.122Z"
+      "lastCheckedAt": "2026-10-20T02:00:49.419Z"
     },
     "ean:5099206110441": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:07.436Z"
+      "lastCheckedAt": "2026-10-20T02:00:54.138Z"
     },
     "ean:5714708000303": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:12.951Z"
+      "lastCheckedAt": "2026-10-20T02:00:59.110Z"
     },
     "ean:195713534543": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:17.362Z"
+      "lastCheckedAt": "2026-10-20T02:01:03.839Z"
     },
     "ean:5099206128316": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:21.478Z"
+      "lastCheckedAt": "2026-10-20T02:01:10.731Z"
     },
     "ean:198415920003": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:27.962Z"
+      "lastCheckedAt": "2026-10-20T02:01:19.077Z"
     },
     "mpn:logitech|960-001777": {
       "status": "not_found",
@@ -14534,67 +14546,67 @@
     },
     "ean:199485759920": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:35.429Z"
+      "lastCheckedAt": "2026-10-20T02:01:23.943Z"
     },
     "mpn:lenovo|4z11u45358": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:38.382Z"
+      "lastCheckedAt": "2026-10-20T02:01:27.955Z"
     },
     "ean:199272334200": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:42.474Z"
+      "lastCheckedAt": "2026-10-20T02:01:32.294Z"
     },
     "ean:197961473919": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:47.357Z"
+      "lastCheckedAt": "2026-10-20T02:01:37.611Z"
     },
     "mpn:lenovo|4z11u45356": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:51.902Z"
+      "lastCheckedAt": "2026-10-20T02:01:41.258Z"
     },
     "mpn:lenovo|4zp1p31361": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:54.885Z"
+      "lastCheckedAt": "2026-10-20T02:01:44.639Z"
     },
     "ean:5099206028838": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:05.016Z"
+      "lastCheckedAt": "2026-10-20T02:01:52.406Z"
     },
     "ean:881767973062": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:10.124Z"
+      "lastCheckedAt": "2026-10-20T02:01:56.500Z"
     },
     "ean:5099206111622": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:13:59.444Z"
+      "lastCheckedAt": "2026-10-20T02:01:48.589Z"
     },
     "ean:5054444662879": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:14.484Z"
+      "lastCheckedAt": "2026-10-20T02:02:00.902Z"
     },
     "mpn:lenovo|4z21s95627": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:18.314Z"
+      "lastCheckedAt": "2026-10-20T02:02:04.200Z"
     },
     "mpn:lenovo|4zd1s08013": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:21.399Z"
+      "lastCheckedAt": "2026-10-20T02:02:07.370Z"
     },
     "ean:0199276045058": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:25.666Z"
+      "lastCheckedAt": "2026-10-20T02:02:11.781Z"
     },
     "ean:5099206110410": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:30.393Z"
+      "lastCheckedAt": "2026-10-20T02:02:16.223Z"
     },
     "mpn:lenovo|4xc1r69219": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:35.389Z"
+      "lastCheckedAt": "2026-10-20T02:02:19.283Z"
     },
     "ean:5099206111059": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:39.908Z"
+      "lastCheckedAt": "2026-10-20T02:02:23.230Z"
     },
     "mpn:lenovo|4z71r63529": {
       "status": "not_found",
@@ -14602,11 +14614,11 @@
     },
     "ean:5099206128323": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:47.084Z"
+      "lastCheckedAt": "2026-10-20T02:02:26.850Z"
     },
     "ean:5054444729572": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:50.981Z"
+      "lastCheckedAt": "2026-10-20T02:02:30.710Z"
     },
     "mpn:lenovo|40cnaaaaeu": {
       "status": "matched",
@@ -14620,79 +14632,84 @@
     },
     "mpn:lenovo|4z11t61125": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:14:55.831Z"
+      "lastCheckedAt": "2026-10-20T02:02:34.453Z"
     },
     "ean:198157525474": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:00.956Z"
+      "lastCheckedAt": "2026-10-20T02:02:38.950Z"
     },
     "mpn:lenovo|4xh1s19779": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:04.404Z"
+      "lastCheckedAt": "2026-10-20T02:02:42.271Z"
     },
     "mpn:lenovo|4z11s38692": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:07.410Z"
+      "lastCheckedAt": "2026-10-20T02:02:45.133Z"
     },
     "ean:197497088663": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:13.654Z"
+      "lastCheckedAt": "2026-10-20T02:02:49.078Z"
     },
     "mpn:lenovo|4z11t60894": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:16.912Z"
+      "lastCheckedAt": "2026-10-20T02:02:51.721Z"
     },
     "mpn:lenovo|4y41v37363": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:19.907Z"
+      "lastCheckedAt": "2026-10-20T02:02:54.543Z"
     },
     "ean:199764117816": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:28.073Z"
+      "lastCheckedAt": "2026-10-20T02:03:04.323Z"
     },
     "ean:885981813036": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:24.079Z"
+      "lastCheckedAt": "2026-10-20T02:02:59.290Z"
     },
     "mpn:hp|5h114ea#abn": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:31.528Z"
+      "lastCheckedAt": "2026-10-20T02:03:07.590Z"
     },
     "mpn:lenovo|4z71q38934": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:34.483Z"
+      "lastCheckedAt": "2026-10-20T02:03:11.092Z"
     },
     "mpn:lenovo|4x61v47614": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:37.613Z"
+      "lastCheckedAt": "2026-10-20T02:03:14.014Z"
     },
     "ean:889899841730": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:42.548Z"
+      "lastCheckedAt": "2026-10-20T02:03:18.584Z"
     },
     "mpn:lenovo|4z11t61123": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:45.808Z"
+      "lastCheckedAt": "2026-10-20T02:03:21.895Z"
     },
     "ean:5099206108776": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:50.214Z"
+      "lastCheckedAt": "2026-10-20T02:03:26.004Z"
     },
     "ean:199251670916": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:54.777Z"
+      "lastCheckedAt": "2026-10-20T02:03:30.136Z"
     },
     "ean:5054444715520": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:15:58.809Z"
+      "lastCheckedAt": "2026-10-20T02:03:33.764Z"
     },
     "mpn:lenovo|5ms1q40723": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:02.049Z"
+      "lastCheckedAt": "2026-10-20T02:03:37.139Z"
     },
     "mpn:lenovo|4xh1w65149": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:05.294Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T02:03:40.208Z",
+      "name": null,
+      "specs": {
+        "produkttype": "HDD enclosure",
+        "farge": "Stainless steel, Black"
+      }
     },
     "ean:5099206027282": {
       "status": "matched",
@@ -14703,216 +14720,236 @@
       "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d200001001856514/logitech-m185-rf-wireless-usb-a-mus-svart.jpg"
     },
     "mpn:logitech|960-001808": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:15.505Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T02:03:44.847Z",
+      "name": "Logitech Rally AI Camera",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011857532/logitech-rally-ai-camera.webp"
     },
     "mpn:lenovo|5ms1q40720": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:18.753Z"
+      "lastCheckedAt": "2026-10-20T02:03:48.204Z"
     },
     "mpn:lenovo|4z71r34351": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:21.693Z"
+      "lastCheckedAt": "2026-10-20T02:03:51.076Z"
     },
     "ean:5054444707778": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:25.910Z"
+      "lastCheckedAt": "2026-10-20T02:03:56.005Z"
     },
     "mpn:logitech|910-006812": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:28.941Z"
+      "lastCheckedAt": "2026-10-20T02:03:59.548Z"
     },
     "mpn:hp|523s5ea#uuw": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:32.209Z"
+      "lastCheckedAt": "2026-10-20T02:04:03.387Z"
     },
     "ean:5099206137370": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:36.002Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T02:04:10.913Z",
+      "name": "Logitech Rally AI Camera Pro",
+      "specs": {},
+      "nameSource": "dustin",
+      "imageUrl": "https://cf-images.dustin.eu/cdn-cgi/image/format=auto,quality=75,width=500,fit=contain/image/d2000010011857444/logitech-rally-ai-camera-pro.webp"
     },
     "mpn:lenovo|4z21s10542": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:38.911Z"
+      "lastCheckedAt": "2026-10-20T02:04:14.335Z"
     },
     "ean:0199274964627": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:43.444Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T02:04:15.056Z",
+      "name": "Lenovo ThinkVision P32UD-40 Monitor",
+      "specs": {
+        "produkttype": "Computer Monitors",
+        "skjerm": "80 cm (31.5\"), 3840 x 2160 pixels",
+        "farge": "Black"
+      },
+      "nameSource": "icecat"
     },
     "ean:196118166759": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:48.317Z"
+      "lastCheckedAt": "2026-10-20T02:04:19.409Z"
     },
     "mpn:lenovo|4z11p90577": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:51.474Z"
+      "lastCheckedAt": "2026-10-20T02:04:22.581Z"
     },
     "ean:5099206029347": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:55.516Z"
+      "lastCheckedAt": "2026-10-20T02:04:31.274Z"
     },
     "ean:5099206126381": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:04.021Z"
+      "lastCheckedAt": "2026-10-20T02:04:26.507Z"
     },
     "ean:195892117230": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:08.837Z"
+      "lastCheckedAt": "2026-10-20T02:04:35.916Z"
     },
     "ean:195892133087": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:13.824Z"
+      "lastCheckedAt": "2026-10-20T02:04:41.022Z"
     },
     "mpn:logitech|920-011612": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:16:58.518Z"
+      "lastCheckedAt": "2026-10-20T02:04:44.215Z"
     },
     "mpn:lenovo|4z11u45357": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:17.335Z"
+      "lastCheckedAt": "2026-10-20T02:04:47.567Z"
     },
     "mpn:lenovo|4z21s10543": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:21.508Z"
+      "lastCheckedAt": "2026-10-20T02:04:50.696Z"
     },
     "ean:5099206126404": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:36.169Z"
+      "lastCheckedAt": "2026-10-20T02:05:14.145Z"
     },
     "ean:885981811315": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:26.110Z"
+      "lastCheckedAt": "2026-10-20T02:04:55.416Z"
     },
     "ean:198990594286": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:31.560Z"
+      "lastCheckedAt": "2026-10-20T02:05:05.325Z"
     },
     "mpn:lenovo|4z21p71121": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:39.221Z"
+      "lastCheckedAt": "2026-10-20T02:05:17.509Z"
     },
     "ean:889899841723": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:43.270Z"
+      "lastCheckedAt": "2026-10-20T02:05:22.086Z"
     },
     "ean:5711724238826": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:47.052Z"
+      "lastCheckedAt": "2026-10-20T02:05:26.872Z"
     },
     "ean:5099206062887": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:51.900Z"
+      "lastCheckedAt": "2026-10-20T02:05:32.770Z"
     },
     "ean:5099206066694": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:00.220Z"
+      "lastCheckedAt": "2026-10-20T02:05:37.211Z"
     },
     "ean:5099206112506": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:17:56.087Z"
+      "lastCheckedAt": "2026-10-20T02:05:44.642Z"
     },
     "mpn:logitech|920-011633": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:03.341Z"
+      "lastCheckedAt": "2026-10-20T02:05:48.041Z"
     },
     "mpn:lenovo|4z21s06942": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:07.037Z"
+      "lastCheckedAt": "2026-10-20T02:05:51.829Z"
     },
     "mpn:lenovo|4z71q47765": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:09.943Z"
+      "lastCheckedAt": "2026-10-20T02:05:54.703Z"
     },
     "mpn:lenovo|4z61p50477": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:12.882Z"
+      "lastCheckedAt": "2026-10-20T02:05:58.141Z"
     },
     "ean:199251671128": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:17.927Z"
+      "lastCheckedAt": "2026-10-20T02:06:02.698Z"
     },
     "mpn:logitech|910-005908": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:21.609Z"
+      "lastCheckedAt": "2026-10-20T02:06:05.464Z"
     },
     "ean:826581855927": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:27.983Z"
+      "lastCheckedAt": "2026-10-20T02:06:09.962Z"
     },
     "mpn:hp|al8a4av_47564479_54298898": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:31.680Z"
+      "lastCheckedAt": "2026-10-20T02:06:12.843Z"
     },
     "mpn:lenovo|4z11t61122": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:34.628Z"
+      "lastCheckedAt": "2026-10-20T02:06:15.728Z"
     },
     "ean:885981811360": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:39.363Z"
+      "lastCheckedAt": "2026-10-20T02:06:20.830Z"
     },
     "ean:5099206117716": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:43.757Z"
+      "lastCheckedAt": "2026-10-20T02:06:25.095Z"
     },
     "mpn:lenovo|4z21r62663": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:48.021Z"
+      "lastCheckedAt": "2026-10-20T02:06:33.724Z"
     },
     "ean:199764751294": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:52.411Z"
+      "lastCheckedAt": "2026-10-20T02:06:30.261Z"
     },
     "ean:889899841754": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:18:57.335Z"
+      "lastCheckedAt": "2026-10-20T02:06:38.220Z"
     },
     "ean:885981812930": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:01.948Z"
+      "lastCheckedAt": "2026-10-20T02:06:43.823Z"
     },
     "mpn:lenovo|40cnaaaeww": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:04.922Z"
+      "lastCheckedAt": "2026-10-20T02:06:47.450Z"
     },
     "mpn:lenovo|4z11p81504": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:07.789Z"
+      "lastCheckedAt": "2026-10-20T02:06:50.338Z"
     },
     "mpn:lenovo|4z11u11058": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:10.660Z"
+      "lastCheckedAt": "2026-10-20T02:06:53.339Z"
     },
     "ean:199485661193": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:15.447Z"
+      "lastCheckedAt": "2026-10-20T02:07:01.978Z"
     },
     "ean:5099206133525": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:19.707Z"
+      "lastCheckedAt": "2026-10-20T02:07:06.300Z"
     },
     "mpn:hp|523t9ea#uuw": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:24.220Z"
+      "lastCheckedAt": "2026-10-20T02:07:10.661Z"
     },
     "mpn:hp|523u0ea#uuw": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:27.924Z"
+      "lastCheckedAt": "2026-10-20T02:07:14.088Z"
     },
     "ean:5054444674834": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:36.027Z"
+      "lastCheckedAt": "2026-10-20T02:07:18.424Z"
     },
     "ean:885981814125": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:32.029Z"
+      "lastCheckedAt": "2026-10-20T02:06:57.645Z"
     },
     "mpn:lenovo|40emtd9052": {
       "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:42.824Z"
+      "lastCheckedAt": "2026-10-20T02:07:21.887Z"
     },
     "mpn:lenovo|4xh1w65148": {
-      "status": "not_found",
-      "lastCheckedAt": "2026-10-05T02:19:46.311Z"
+      "status": "matched",
+      "lastCheckedAt": "2026-10-20T02:07:25.721Z",
+      "name": null,
+      "specs": {
+        "produkttype": "HDD enclosure",
+        "farge": "Stainless steel, Black"
+      }
     },
     "ean:199272143758": {
       "status": "matched",
