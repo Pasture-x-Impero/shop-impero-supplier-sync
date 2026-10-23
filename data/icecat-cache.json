@@ -17336,6 +17336,24 @@
       "specs": {
         "produkttype": "Headphone/Headset Accessories"
       }
+    },
+    "ean:810119102768": {
+      "status": "not_found",
+      "lastCheckedAt": "2026-10-23T01:39:37.920Z"
+    },
+    "ean:195892142607": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-23T01:39:41.478Z",
+      "name": "Lenovo 8000",
+      "specs": {
+        "produkttype": "Mice",
+        "farge": "Grey"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:7090043791235": {
+      "status": "not_found",
+      "lastCheckedAt": "2026-10-23T01:39:46.842Z"
     }
   }
 }
