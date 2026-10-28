@@ -17417,6 +17417,24 @@
         "tastaturoppsett": "Nordisk"
       },
       "nameSource": "icecat"
+    },
+    "ean:828132174006": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-28T02:25:46.960Z",
+      "name": "Lenovo ThinkPad L14 Gen 7 (Intel) Copilot+ PC — Core Ultra 7 355, 24GB/512GB",
+      "specs": {
+        "produkttype": "Laptop",
+        "prosessor": "Intel Core Ultra 7 355",
+        "minne": "24 GB",
+        "lagring": "512 GB SSD",
+        "grafikk": "Intel® Graphics",
+        "skjerm": "35.6 cm (14\"), 1920 x 1200 pixels",
+        "operativsystem": "Danish, Finnish, Swedish, Norwegian, English",
+        "nettverk": "Wi-Fi 7 (802.11be), Bluetooth 5.4",
+        "farge": "Black",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "icecat"
     }
   }
 }
