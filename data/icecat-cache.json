@@ -17435,6 +17435,42 @@
         "tastaturoppsett": "Nordisk"
       },
       "nameSource": "icecat"
+    },
+    "ean:828132174358": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-29T02:32:11.088Z",
+      "name": "Lenovo ThinkPad L16 Gen 3 (Intel) Copilot+ PC — Core Ultra 7 355, 24GB/512GB",
+      "specs": {
+        "produkttype": "Laptop",
+        "prosessor": "Intel Core Ultra 7 355",
+        "minne": "24 GB",
+        "lagring": "512 GB SSD",
+        "grafikk": "Intel® Graphics",
+        "skjerm": "40.6 cm (16\"), 1920 x 1200 pixels",
+        "operativsystem": "Danish, Finnish, Swedish, Norwegian, English",
+        "nettverk": "Wi-Fi 7 (802.11be), Bluetooth 5.4",
+        "farge": "Black",
+        "tastaturoppsett": "Nordisk"
+      },
+      "nameSource": "icecat"
+    },
+    "ean:195892142546": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-29T02:32:17.289Z",
+      "name": null,
+      "specs": {
+        "produkttype": "Slot Expanders"
+      }
+    },
+    "ean:195892150633": {
+      "status": "matched",
+      "lastCheckedAt": "2026-10-29T02:32:18.148Z",
+      "name": "Lenovo 140W Smart Laptop Power Bank",
+      "specs": {
+        "produkttype": "Power Banks",
+        "farge": "Black"
+      },
+      "nameSource": "icecat"
     }
   }
 }
